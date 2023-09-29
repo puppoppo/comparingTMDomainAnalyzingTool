@@ -17,9 +17,14 @@ not have “U”,”X”
 4. Original
 
 ## Complete File
->A3LT2_HUMAN
+">A3LT2_HUMAN"
+
 uniprot, 000-000
+
 phobius, 000-000
+
 deep tmhmm, 000-000
-original method by using amph, 000-000
+
+original method by using amph, 000-000, score=x,x
+
 MXXXXX…
