@@ -15,7 +15,7 @@ while(<SWISS>){
 
 	if($_ =~ /^ID   /){
 	}
-	 elsif($_ =~ /^DE/){
+ 	elsif($_ =~ /^DE/){
 		if($_ =~ /Fragment/){
 			$frag = 1;
 		}
