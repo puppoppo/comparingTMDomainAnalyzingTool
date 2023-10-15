@@ -13,46 +13,48 @@ while (<SWISS>) {
     $all[$j] = substr( $_, 0, 1000 );
     $j += 1;
 
-    if ( $_ =~ /^ID   / ) {
+    $readingLine = $_ . " ";
+
+    if ( $readingLine =~ /^ID   / ) {
     }
-    elsif ( $_ =~ /^DE/ ) {
-        if ( $_ =~ /Fragment/ ) {
+    elsif ( $readingLine =~ /^DE/ ) {
+        if ( $readingLine =~ /Fragment/ ) {
             $frag = 1;
         }
     }
-    elsif ( $_ =~ /^OC   / ) {
-        $swissoc .= substr( $_, 5, 100 );
+    elsif ( $readingLine =~ /^OC   / ) {
+        $swissoc .= substr( $readingLine, 5, 100 );
     }
 
-    elsif ( $_ =~ /^CC   -!- SUBCELLULAR LOCATION/ ) {
+    elsif ( $readingLine =~ /^CC   -!- SUBCELLULAR LOCATION/ ) {
         $suswitch = 1;
-        $swisssu .= substr( $_, 30, 100 );
+        $swisssu .= substr( $readingLine, 30, 100 );
     }
-    elsif ( $_ =~ /^CC   -!-|CC   ---/ ) {
+    elsif ( $readingLine =~ /^CC   -!-|CC   ---/ ) {
         $suswitch = 0;
     }
-    elsif ( $_ =~ /^CC       / && $suswitch == 1 ) {
-        $swisssu .= substr( $_, 9, 100 );
+    elsif ( $readingLine =~ /^CC       / && $suswitch == 1 ) {
+        $swisssu .= substr( $readingLine, 9, 100 );
     }
-    elsif ( $_ =~ /^FT   TRANSMEM/ ) {
+    elsif ( $readingLine =~ /^FT   TRANSMEM/ ) {
         $ftnumber++;
         $ftswitch = 1;
     }
-    elsif ( $_ =~ /^FT       / && $ftswitch >= 1 && $ftswitch < 3 )
+    elsif ( $readingLine =~ /^FT       / && $ftswitch >= 1 && $ftswitch < 3 )
     {    #FT TRANSMEM行の後ろ2行をfteviに格納
         $ftevi .= substr( $_, 21, 100 );
         $ftswitch++;
     }
-    elsif ( $_ =~ /^     / ) {    #配列にU,Xが含まれているかフラグ化
-        if ( $_ =~ /U|X/ ) {
+    elsif ( $readingLine =~ /^     / ) {    #配列にU,Xが含まれているかフラグ化
+        if ( $readingLine =~ /U|X/ ) {
             $U = 1;
         }
     }
 
-    elsif ( $_ =~ /^\/\// ) {
+    elsif ( $readingLine =~ /^\/\// ) {
         if ( $swissoc =~ /Mammalia/ && $frag == 0 && $ftnumber == 1 && $U == 0 )
         {
-            if ( $swisssu =~ /type II |typeII / ) {
+            if ( $swisssu =~ /type II/ ) {
 
                 @su = split( /\.|\;/, $swisssu );
 
@@ -60,7 +62,7 @@ while (<SWISS>) {
                     if ( $su[$i] =~ /Note/ ) {
                         $note = 1;
                     }
-                    if ( $note == 0 && $su[$i] =~ /type II |typeII / ) {
+                    if ( $note == 0 && $su[$i] =~ /type II/ ) {
                         if    ( $su[$i] =~ /ECO:0000269/ ) { $t2eco = 269; }
                         elsif ( $su[$i] =~ /ECO:0000303/ ) { $t2eco = 303; }
                         elsif ( $su[$i] =~ /ECO:0000305/ ) { $t2eco = 305; }
