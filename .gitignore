@@ -1,8 +1,14 @@
 uniprot_sprot.dat
-#2023_04
+#2023_04_version
 
 type2.dat
+#dataset1
 
 ft269.dat
+#dataset2
+#8 proteins
 
-uniprot_range.txt
+TMD_uniprot.txt
+TMD_phobius.txt
+TMD_deepTMHMM.txt
+TMD_originalMethod.txt
