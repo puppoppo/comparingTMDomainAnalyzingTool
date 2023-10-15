@@ -19,14 +19,14 @@ not have “U”,”X”
 ## Complete File
 ">4F2_HUMAN"
 uniprot, 000-000, eco=x
-phobius, 000-000
-deep tmhmm, 000-000
+phobius, 000-000 (/ not predicted type II protein)
+deep tmhmm, 000-000 (/ not predicted type II protein)
 original method by using amph, 000-000, score=x,x
 MXXXXX…
 
 ">4F2_MOUSE"
 uniprot, 000-000, eco=x
-phobius, 000-000
-deep tmhmm, 000-000
+phobius, 000-000 (/ not predicted type II protein)
+deep tmhmm, 000-000 (/ not predicted type II protein)
 original method by using amph, 000-000, score=x,x
 MXXXXX…
