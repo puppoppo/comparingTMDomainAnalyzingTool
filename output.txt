@@ -1,0 +1,2530 @@
+>4F2_HUMAN
+EMBOSS_001                      1  0 i183-205o
+>4F2_MOUSE
+EMBOSS_001                      1  0 i76-98o
+>4F2_RABIT
+EMBOSS_001                      1  0 i83-105o
+>4F2_RAT
+EMBOSS_001                      1  0 i76-98o
+>A3LT2_HUMAN
+EMBOSS_001                      1  0 o13-32i
+>A3LT2_MOUSE
+EMBOSS_001                      1  0 i43-60o
+>A3LT2_RAT
+EMBOSS_001                      2  0 i12-30o36-54i
+>A4GAT_HUMAN
+EMBOSS_001                      1  0 i20-42o
+>A4GAT_MOUSE
+EMBOSS_001                      1  0 i31-51o
+>A4GAT_PANTR
+EMBOSS_001                      1  0 i20-42o
+>A4GAT_RAT
+EMBOSS_001                      1  0 i31-51o
+>A4GCT_HUMAN
+EMBOSS_001                      0  Y n7-17c22/23o
+>A4GCT_MOUSE
+EMBOSS_001                      0  Y n7-17c22/23o
+>AAAD_BOVIN
+EMBOSS_001                      2  0 i5-23o43-59i
+>AAAD_HUMAN
+EMBOSS_001                      2  0 o6-23i106-125o
+>AAAD_MOUSE
+EMBOSS_001                      2  0 o6-22i105-124o
+>AAAD_RAT
+EMBOSS_001                      2  0 o6-22i105-124o
+>ABHD2_BOVIN
+EMBOSS_001                      1  0 i12-30o
+>ABHD2_HUMAN
+EMBOSS_001                      1  0 i12-30o
+>ABHD2_MACFA
+EMBOSS_001                      1  0 i12-30o
+>ABHD2_MOUSE
+EMBOSS_001                      1  0 i12-30o
+>ABHD6_BOVIN
+EMBOSS_001                      1  0 o20-41i
+>ABHD6_HUMAN
+EMBOSS_001                      1  0 o6-39i
+>ABHD6_MOUSE
+EMBOSS_001                      1  0 o6-39i
+>ABHD6_RAT
+EMBOSS_001                      1  0 o6-39i
+>ABHEA_HUMAN
+EMBOSS_001                      1  0 i35-52o
+>ABHEA_MOUSE
+EMBOSS_001                      0  Y n11-24c29/30o
+>ABHEA_RAT
+EMBOSS_001                      0  Y n6-19c24/25o
+>AGRIN_MOUSE
+EMBOSS_001                      1  0 i20-47o
+>AGRIN_RAT
+EMBOSS_001                      1  0 i20-47o
+>ALG1_HUMAN
+EMBOSS_001                      0  Y n4-15c20/21o
+>ALG1_MOUSE
+EMBOSS_001                      3  Y n3-22c27/28o51-69i100-116o136-154i
+>ALG1_PONAB
+EMBOSS_001                      0  Y n4-15c20/21o
+>ALG5_HUMAN
+EMBOSS_001                      0  Y n4-23c27/28o
+>ALG5_MOUSE
+EMBOSS_001                      1  Y n4-22c27/28o214-231i
+>AMPE_BOVIN
+EMBOSS_001                      1  0 i21-42o
+>AMPE_HUMAN
+EMBOSS_001                      1  0 i20-39o
+>AMPE_MOUSE
+EMBOSS_001                      1  0 i19-39o
+>AMPE_PIG
+EMBOSS_001                      1  0 i15-35o
+>AMPE_RAT
+EMBOSS_001                      1  0 i19-39o
+>AMPN_BOVIN
+EMBOSS_001                      0  Y n10-29c34/35o
+>AMPN_CANLF
+EMBOSS_001                      0  Y n10-29c34/35o
+>AMPN_FELCA
+EMBOSS_001                      1  0 i12-33o
+>AMPN_HUMAN
+EMBOSS_001                      1  0 i12-33o
+>AMPN_MOUSE
+EMBOSS_001                      0  Y n11-29c34/35o
+>AMPN_PIG
+EMBOSS_001                      0  Y n10-29c34/35o
+>AMPN_RABIT
+EMBOSS_001                      0  Y n11-29c34/35o
+>AMPN_RAT
+EMBOSS_001                      0  Y n11-29c34/35o
+>AMPQ_ACIJB
+EMBOSS_001                      0  Y n15-30c34/35o
+>AMPQ_FELCA
+EMBOSS_001                      0  Y n15-30c34/35o
+>AMPQ_HUMAN
+EMBOSS_001                      0  Y n15-30c34/35o
+>AMPQ_MOUSE
+EMBOSS_001                      0  Y n15-30c34/35o
+>AOC3_HUMAN
+EMBOSS_001                      0  Y n6-25c29/30o
+>AOC3_RAT
+EMBOSS_001                      0  Y n7-25c29/30o
+>APMAP_HUMAN
+EMBOSS_001                      1  0 i38-61o
+>ARXS1_MOUSE
+EMBOSS_001                      1  0 o12-32i
+>ARXS2_MOUSE
+EMBOSS_001                      1  0 o12-32i
+>ASAH2_HUMAN
+EMBOSS_001                      1  0 i12-33o
+>ASAH2_MOUSE
+EMBOSS_001                      1  0 i12-33o
+>ASAH2_RAT
+EMBOSS_001                      1  0 i12-33o
+>ASGR1_MOUSE
+EMBOSS_001                      1  0 i40-60o
+>ASGR1_RAT
+EMBOSS_001                      1  0 i40-60o
+>ASGR2_HUMAN
+EMBOSS_001                      1  0 i53-74o
+>ASGR2_MOUSE
+EMBOSS_001                      1  0 i59-79o
+>ASGR2_RAT
+EMBOSS_001                      1  0 o57-77i
+>ASPH_BOVIN
+EMBOSS_001                      1  0 i57-78o
+>ASPH_HUMAN
+EMBOSS_001                      1  0 i54-75o
+>ASPH_MOUSE
+EMBOSS_001                      1  0 i63-84o
+>AT1B1_CANLF
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_CAVPO
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_HUMAN
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_MACFA
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_MOUSE
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_PANTR
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_PIG
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_PONAB
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_RABIT
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_RAT
+EMBOSS_001                      1  0 o36-61i
+>AT1B1_SHEEP
+EMBOSS_001                      1  0 o36-61i
+>AT1B2_BOVIN
+EMBOSS_001                      1  0 i37-63o
+>AT1B2_HUMAN
+EMBOSS_001                      1  0 i37-63o
+>AT1B2_MOUSE
+EMBOSS_001                      1  0 i37-63o
+>AT1B2_RAT
+EMBOSS_001                      1  0 i37-63o
+>AT1B3_BOVIN
+EMBOSS_001                      1  0 i38-62o
+>AT1B3_CAVPO
+EMBOSS_001                      1  0 i36-62o
+>AT1B3_HUMAN
+EMBOSS_001                      1  0 i38-62o
+>AT1B3_MOUSE
+EMBOSS_001                      1  0 i38-62o
+>AT1B3_RABIT
+EMBOSS_001                      1  0 i38-62o
+>AT1B3_RAT
+EMBOSS_001                      1  0 i38-62o
+>AT1B4_BOVIN
+EMBOSS_001                      1  0 i107-133o
+>AT1B4_HUMAN
+EMBOSS_001                      1  0 i108-135o
+>AT1B4_MOUSE
+EMBOSS_001                      1  0 i110-137o
+>AT1B4_PIG
+EMBOSS_001                      1  0 i107-133o
+>AT1B4_RAT
+EMBOSS_001                      1  0 i110-137o
+>ATF6A_HUMAN
+EMBOSS_001                      1  0 i378-398o
+>ATF6A_MOUSE
+EMBOSS_001                      1  0 i365-385o
+>ATF6A_RAT
+EMBOSS_001                      1  0 i365-385o
+>ATF6B_HUMAN
+EMBOSS_001                      1  0 i397-416o
+>ATF6B_MOUSE
+EMBOSS_001                      1  0 i394-413o
+>ATP4B_CANLF
+EMBOSS_001                      1  0 i37-63o
+>ATP4B_HUMAN
+EMBOSS_001                      1  0 i37-63o
+>ATP4B_MOUSE
+EMBOSS_001                      1  0 i37-63o
+>ATP4B_PIG
+EMBOSS_001                      1  0 i37-63o
+>ATP4B_RABIT
+EMBOSS_001                      1  0 i37-63o
+>ATP4B_RAT
+EMBOSS_001                      1  0 i37-63o
+>B3GA1_CANLF
+EMBOSS_001                      1  0 i7-25o
+>B3GA1_HUMAN
+EMBOSS_001                      1  0 i7-25o
+>B3GA1_MOUSE
+EMBOSS_001                      1  0 i7-25o
+>B3GA1_PANTR
+EMBOSS_001                      1  0 i7-25o
+>B3GA1_RAT
+EMBOSS_001                      1  0 i7-25o
+>B3GA2_CANLF
+EMBOSS_001                      1  0 o6-25i
+>B3GA2_MOUSE
+EMBOSS_001                      1  0 i5-23o
+>B3GA3_CRIGR
+EMBOSS_001                      0  Y n8-18c23/24o
+>B3GA3_HUMAN
+EMBOSS_001                      0  Y n8-18c23/24o
+>B3GA3_MOUSE
+EMBOSS_001                      0  Y n8-18c23/24o
+>B3GL1_MOUSE
+EMBOSS_001                      1  0 i20-38o
+>B3GL1_MUSSI
+EMBOSS_001                      1  0 i20-38o
+>B3GL1_PIG
+EMBOSS_001                      1  0 i20-38o
+>B3GL1_PONAB
+EMBOSS_001                      1  0 o20-38i
+>B3GL1_RAT
+EMBOSS_001                      1  0 i20-38o
+>B3GL2_HUMAN
+EMBOSS_001                      0  Y n4-15c33/34o
+>B3GL2_MOUSE
+EMBOSS_001                      0  Y n4-14c19/20o
+>B3GLT_HUMAN
+EMBOSS_001                      0  Y n5-23c28/29o
+>B3GLT_MOUSE
+EMBOSS_001                      0  Y n5-16c20/21o
+>B3GN2_HUMAN
+EMBOSS_001                      1  0 i7-25o
+>B3GN2_MOUSE
+EMBOSS_001                      1  0 i7-25o
+>B3GN3_HUMAN
+EMBOSS_001                      0  Y n11-29c36/37o
+>B3GN3_MOUSE
+EMBOSS_001                      0  Y n11-26c35/36o
+>B3GN4_HUMAN
+EMBOSS_001                      1  0 i30-49o
+>B3GN4_MOUSE
+EMBOSS_001                      0  Y n5-24c35/36o
+>B3GN5_HUMAN
+EMBOSS_001                      1  0 i12-32o
+>B3GN5_MOUSE
+EMBOSS_001                      1  0 i12-33o
+>B3GN5_PIG
+EMBOSS_001                      1  0 i12-32o
+>B3GN5_RAT
+EMBOSS_001                      1  0 i15-34o
+>B3GN6_HUMAN
+EMBOSS_001                      0  Y n13-23c27/28o
+>B3GN6_MOUSE
+EMBOSS_001                      1  0 i12-32o
+>B3GN7_HUMAN
+EMBOSS_001                      0  Y n11-22c26/27o
+>B3GN7_MOUSE
+EMBOSS_001                      0  Y n11-22c27/28o
+>B3GN7_RAT
+EMBOSS_001                      0  Y n11-22c27/28o
+>B3GN8_HUMAN
+EMBOSS_001                      0  Y n6-19c23/24o
+>B3GN8_MOUSE
+EMBOSS_001                      0  Y n8-19c23/24o
+>B3GN9_BOVIN
+EMBOSS_001                      0  Y n11-23c27/28o
+>B3GN9_HUMAN
+EMBOSS_001                      0  Y n11-23c27/28o
+>B3GN9_MOUSE
+EMBOSS_001                      0  Y n15-27c31/32o
+>B3GT1_GORGO
+EMBOSS_001                      0  Y n5-15c19/20o
+>B3GT1_HUMAN
+EMBOSS_001                      0  Y n5-15c19/20o
+>B3GT1_MOUSE
+EMBOSS_001                      0  Y n5-15c19/20o
+>B3GT1_PANPA
+EMBOSS_001                      0  Y n5-15c19/20o
+>B3GT1_PANTR
+EMBOSS_001                      0  Y n5-15c19/20o
+>B3GT1_PONPY
+EMBOSS_001                      0  Y n5-15c19/20o
+>B3GT2_HUMAN
+EMBOSS_001                      1  0 i21-43o
+>B3GT2_MOUSE
+EMBOSS_001                      1  0 i21-43o
+>B3GT2_PONAB
+EMBOSS_001                      1  0 i21-43o
+>B3GT4_CANLF
+EMBOSS_001                      0  Y n9-24c29/30o
+>B3GT4_HUMAN
+EMBOSS_001                      0  Y n9-24c29/30o
+>B3GT4_MOUSE
+EMBOSS_001                      0  Y n9-24c29/30o
+>B3GT4_RAT
+EMBOSS_001                      0  Y n9-24c29/30o
+>B3GT5_HUMAN
+EMBOSS_001                      0  Y n11-22c27/28o
+>B3GT5_MOUSE
+EMBOSS_001                      1  0 i7-25o
+>B3GT6_HUMAN
+EMBOSS_001                      0  Y n12-27c32/33o
+>B3GT6_MOUSE
+EMBOSS_001                      0  Y n12-27c32/33o
+>B3GT9_HUMAN
+EMBOSS_001                      1  0 i12-30o
+>B4GA1_BOVIN
+EMBOSS_001                      0  Y n14-33c38/39o
+>B4GA1_HUMAN
+EMBOSS_001                      0  Y n14-33c38/39o
+>B4GA1_MOUSE
+EMBOSS_001                      0  Y n14-33c38/39o
+>B4GA1_PONAB
+EMBOSS_001                      0  Y n14-33c38/39o
+>B4GN1_HUMAN
+EMBOSS_001                      0  Y n7-20c25/26o
+>B4GN1_MOUSE
+EMBOSS_001                      0  Y n7-18c23/24o
+>B4GN1_RAT
+EMBOSS_001                      0  Y n7-20c25/26o
+>B4GN2_HUMAN
+EMBOSS_001                      1  0 i70-97o
+>B4GN3_HUMAN
+EMBOSS_001                      0  Y n25-39c47/48o
+>B4GN3_MOUSE
+EMBOSS_001                      0  Y n25-37c49/50o
+>B4GN4_HUMAN
+EMBOSS_001                      0  Y n15-28c33/34o
+>B4GN4_MOUSE
+EMBOSS_001                      0  Y n15-28c33/34o
+>B4GT1_BOVIN
+EMBOSS_001                      1  0 i21-43o
+>B4GT1_HUMAN
+EMBOSS_001                      1  0 i21-43o
+>B4GT1_MOUSE
+EMBOSS_001                      1  0 i21-42o
+>B4GT2_CRIGR
+EMBOSS_001                      1  0 i12-32o
+>B4GT2_HUMAN
+EMBOSS_001                      1  0 i12-32o
+>B4GT2_MOUSE
+EMBOSS_001                      1  0 i12-32o
+>B4GT3_BOVIN
+EMBOSS_001                      0  Y n10-21c29/30o
+>B4GT3_CRIGR
+EMBOSS_001                      0  Y n10-21c39/40o
+>B4GT3_HUMAN
+EMBOSS_001                      0  Y n10-21c39/40o
+>B4GT3_MOUSE
+EMBOSS_001                      0  Y n10-21c39/40o
+>B4GT3_PONAB
+EMBOSS_001                      0  Y n10-21c39/40o
+>B4GT3_RAT
+EMBOSS_001                      0  Y n10-21c39/40o
+>B4GT4_CRIGR
+EMBOSS_001                      1  0 o15-35i
+>B4GT4_HUMAN
+EMBOSS_001                      0  Y n15-26c31/32o
+>B4GT4_MOUSE
+EMBOSS_001                      0  Y n15-26c31/32o
+>B4GT4_RAT
+EMBOSS_001                      0  Y n15-26c31/32o
+>B4GT5_HUMAN
+EMBOSS_001                      0  Y n14-29c34/35o
+>B4GT5_MOUSE
+EMBOSS_001                      0  Y n14-29c34/35o
+>B4GT5_PIG
+EMBOSS_001                      0  Y n14-29c34/35o
+>B4GT6_HUMAN
+EMBOSS_001                      0  Y n14-24c28/29o
+>B4GT6_MOUSE
+EMBOSS_001                      0  Y n14-24c28/29o
+>B4GT6_RAT
+EMBOSS_001                      0  Y n14-24c28/29o
+>B4GT7_HUMAN
+EMBOSS_001                      1  0 i31-51o
+>B4GT7_MOUSE
+EMBOSS_001                      1  0 i29-49o
+>BGAT1_RAT
+EMBOSS_001                      1  0 i12-32o
+>BGAT2_RAT
+EMBOSS_001                      1  0 o12-34i
+>BGAT_HUMAN
+EMBOSS_001                      1  0 i20-37o
+>BGAT_MOUSE
+EMBOSS_001                      1  0 i12-32o
+>BST2_CRIGR
+EMBOSS_001                      2  0 o22-47i184-202o
+>BST2_HUMAN
+EMBOSS_001                      1  0 i22-44o
+>BST2_MOUSE
+EMBOSS_001                      1  0 i28-51o
+>BST2_RAT
+EMBOSS_001                      2  0 o27-50i148-170o
+>BTNL2_HUMAN
+EMBOSS_001                      1  0 o6-23i
+>C1GLT_BOVIN
+EMBOSS_001                      1  0 o6-31i
+>C1GLT_MOUSE
+EMBOSS_001                      1  0 o6-31i
+>C1GLT_RAT
+EMBOSS_001                      1  0 o6-31i
+>CANT1_HUMAN
+EMBOSS_001                      1  0 i43-59o
+>CANT1_MOUSE
+EMBOSS_001                      1  0 i43-60o
+>CANT1_RAT
+EMBOSS_001                      1  0 i43-60o
+>CCPG1_HUMAN
+EMBOSS_001                      1  0 i218-236o
+>CCPG1_MOUSE
+EMBOSS_001                      1  0 i219-237o
+>CCPG1_PONAB
+EMBOSS_001                      1  0 i217-235o
+>CD209_HUMAN
+EMBOSS_001                      1  0 i34-58o
+>CD38_HUMAN
+EMBOSS_001                      1  0 i24-43o
+>CD38_MACFA
+EMBOSS_001                      1  0 i24-44o
+>CD38_MOUSE
+EMBOSS_001                      1  0 o24-45i
+>CD38_RABIT
+EMBOSS_001                      1  0 i22-45o
+>CD38_RAT
+EMBOSS_001                      1  0 o24-45i
+>CD40L_AOTTR
+EMBOSS_001                      1  0 o23-46i
+>CD40L_BOVIN
+EMBOSS_001                      1  0 o23-46i
+>CD40L_CALJA
+EMBOSS_001                      1  0 o23-46i
+>CD40L_CANLF
+EMBOSS_001                      1  0 o23-46i
+>CD40L_CERAT
+EMBOSS_001                      1  0 o23-46i
+>CD40L_FELCA
+EMBOSS_001                      1  0 o23-46i
+>CD40L_HUMAN
+EMBOSS_001                      1  0 o23-46i
+>CD40L_MACMU
+EMBOSS_001                      1  0 o23-46i
+>CD40L_MACNE
+EMBOSS_001                      1  0 o23-46i
+>CD40L_MOUSE
+EMBOSS_001                      1  0 o23-46i
+>CD40L_PIG
+EMBOSS_001                      1  0 o23-46i
+>CD40L_RAT
+EMBOSS_001                      1  0 o23-46i
+>CD69_HUMAN
+EMBOSS_001                      1  0 o37-61i
+>CD69_MOUSE
+EMBOSS_001                      1  0 o41-64i
+>CD70_HUMAN
+EMBOSS_001                      1  0 i21-42o
+>CD70_MOUSE
+EMBOSS_001                      1  0 o22-44i
+>CD70_PIG
+EMBOSS_001                      1  0 o15-36i
+>CD72_HUMAN
+EMBOSS_001                      1  0 i95-119o
+>CD72_MOUSE
+EMBOSS_001                      1  0 o95-116i
+>CEIP2_HUMAN
+EMBOSS_001                      1  0 i83-103o
+>CEIP2_MOUSE
+EMBOSS_001                      1  0 i83-103o
+>CF089_HUMAN
+EMBOSS_001                      1  0 i55-79o
+>CF089_MOUSE
+EMBOSS_001                      1  0 i55-79o
+>CF089_PONAB
+EMBOSS_001                      1  0 i55-79o
+>CF089_RAT
+EMBOSS_001                      1  0 i55-79o
+>CGAT1_HUMAN
+EMBOSS_001                      0  Y n15-26c31/32o
+>CGAT1_MOUSE
+EMBOSS_001                      1  0 i12-31o
+>CGAT2_HUMAN
+EMBOSS_001                      1  0 i12-32o
+>CGAT2_MOUSE
+EMBOSS_001                      0  Y n15-26c34/35o
+>CHPF2_HUMAN
+EMBOSS_001                      0  Y n3-10c15/16o
+>CHSS1_HUMAN
+EMBOSS_001                      0  Y n8-18c23/24o
+>CHSS1_MOUSE
+EMBOSS_001                      0  Y n8-18c23/24o
+>CHSS2_HUMAN
+EMBOSS_001                      0  Y n3-10c19/20o
+>CHSS2_MOUSE
+EMBOSS_001                      0  Y n3-10c19/20o
+>CHSS3_HUMAN
+EMBOSS_001                      0  Y n12-27c32/33o
+>CHSS3_MOUSE
+EMBOSS_001                      0  Y n10-20c32/33o
+>CHST1_HUMAN
+EMBOSS_001                      0  Y n7-18c23/24o
+>CHST1_MOUSE
+EMBOSS_001                      0  Y n7-18c24/25o
+>CHST1_RAT
+EMBOSS_001                      0  Y n7-18c24/25o
+>CHST2_HUMAN
+EMBOSS_001                      1  0 i55-74o
+>CHST2_MOUSE
+EMBOSS_001                      1  0 i55-74o
+>CHST3_HUMAN
+EMBOSS_001                      1  0 i21-38o
+>CHST3_MOUSE
+EMBOSS_001                      1  0 o20-38i
+>CHST3_RAT
+EMBOSS_001                      1  0 o20-38i
+>CHST4_HUMAN
+EMBOSS_001                      0  Y n9-24c33/34o
+>CHST4_MOUSE
+EMBOSS_001                      0  Y n12-23c35/36o
+>CHST5_HUMAN
+EMBOSS_001                      0  Y n32-47c59/60o
+>CHST5_MOUSE
+EMBOSS_001                      0  Y n12-23c28/29o
+>CHST6_HUMAN
+EMBOSS_001                      0  Y n10-25c34/35o
+>CHST7_HUMAN
+EMBOSS_001                      0  Y n14-27c34/35o
+>CHST7_MOUSE
+EMBOSS_001                      0  Y n16-27c34/35o
+>CHST7_RAT
+EMBOSS_001                      0  Y n16-27c34/35o
+>CHST8_HUMAN
+EMBOSS_001                      0  Y n17-28c32/33o
+>CHST8_MOUSE
+EMBOSS_001                      0  Y n17-28c32/33o
+>CHST9_HUMAN
+EMBOSS_001                      1  0 i12-35o
+>CHST9_MOUSE
+EMBOSS_001                      0  Y n6-21c26/27o
+>CHSTA_HUMAN
+EMBOSS_001                      0  Y n6-17c22/23o
+>CHSTA_MOUSE
+EMBOSS_001                      0  Y n6-17c22/23o
+>CHSTA_PONAB
+EMBOSS_001                      0  Y n6-17c22/23o
+>CHSTA_RAT
+EMBOSS_001                      0  Y n6-17c22/23o
+>CHSTB_HUMAN
+EMBOSS_001                      0  Y n18-30c42/43o
+>CHSTB_MOUSE
+EMBOSS_001                      0  Y n18-30c42/43o
+>CHSTB_RAT
+EMBOSS_001                      0  Y n18-30c42/43o
+>CHSTC_HUMAN
+EMBOSS_001                      1  0 i7-26o
+>CHSTC_MOUSE
+EMBOSS_001                      1  0 i7-26o
+>CHSTD_HUMAN
+EMBOSS_001                      0  Y n10-21c25/26o
+>CHSTE_HUMAN
+EMBOSS_001                      1  0 o39-60i
+>CHSTE_MOUSE
+EMBOSS_001                      1  0 o39-60i
+>CHSTF_HUMAN
+EMBOSS_001                      1  0 i80-98o
+>CHSTF_MOUSE
+EMBOSS_001                      1  0 i80-98o
+>CHSTF_RAT
+EMBOSS_001                      1  0 i80-98o
+>CKAP4_HUMAN
+EMBOSS_001                      1  0 i110-131o
+>CKAP4_MOUSE
+EMBOSS_001                      1  0 i86-106o
+>CL12A_HUMAN
+EMBOSS_001                      1  0 o42-68i
+>CL12A_MOUSE
+EMBOSS_001                      1  0 i43-65o
+>CL12B_BOVIN
+EMBOSS_001                      1  0 o42-65i
+>CL12B_HUMAN
+EMBOSS_001                      1  0 i38-65o
+>CL12B_MOUSE
+EMBOSS_001                      1  0 i38-65o
+>CLC10_MOUSE
+EMBOSS_001                      1  0 o30-54i
+>CLC10_RAT
+EMBOSS_001                      1  0 o32-56i
+>CLC2A_HUMAN
+EMBOSS_001                      1  0 i28-49o
+>CLC2D_HUMAN
+EMBOSS_001                      1  0 i34-59o
+>CLC2D_MOUSE
+EMBOSS_001                      1  0 i43-65o
+>CLC4A_HUMAN
+EMBOSS_001                      1  0 o48-69i
+>CLC4C_HUMAN
+EMBOSS_001                      1  0 o21-47i
+>CLC4D_HUMAN
+EMBOSS_001                      1  0 o18-41i
+>CLC4D_MOUSE
+EMBOSS_001                      1  0 i21-46o
+>CLC4D_RAT
+EMBOSS_001                      1  0 i21-46o
+>CLC4E_HUMAN
+EMBOSS_001                      1  0 i21-49o
+>CLC4E_MOUSE
+EMBOSS_001                      1  0 o22-45i
+>CLC4E_RAT
+EMBOSS_001                      1  0 o22-47i
+>CLC4F_MOUSE
+EMBOSS_001                      1  0 i45-65o
+>CLC4F_RAT
+EMBOSS_001                      1  0 i45-69o
+>CLC4G_HUMAN
+EMBOSS_001                      1  0 o32-53i
+>CLC4G_MOUSE
+EMBOSS_001                      1  0 i31-53o
+>CLC4K_HUMAN
+EMBOSS_001                      1  0 o44-64i
+>CLC4K_MOUSE
+EMBOSS_001                      1  0 i42-66o
+>CLC4M_HUMAN
+EMBOSS_001                      1  0 i50-70o
+>CLC5A_HUMAN
+EMBOSS_001                      1  0 o6-27i
+>CLC5A_MOUSE
+EMBOSS_001                      1  0 o6-27i
+>CLC5A_PIG
+EMBOSS_001                      1  0 o6-27i
+>CLC6A_BOVIN
+EMBOSS_001                      1  0 i15-40o
+>CLC6A_HUMAN
+EMBOSS_001                      1  0 o20-45i
+>CLC6A_MOUSE
+EMBOSS_001                      1  0 o18-44i
+>CLC6A_RAT
+EMBOSS_001                      1  0 o18-41i
+>CLC7A_BOVIN
+EMBOSS_001                      1  0 o45-70i
+>CLC7A_HUMAN
+EMBOSS_001                      1  0 o45-70i
+>CLC7A_MACMU
+EMBOSS_001                      1  0 o45-70i
+>CLC7A_MOUSE
+EMBOSS_001                      1  0 o46-67i
+>CLC9A_HUMAN
+EMBOSS_001                      1  0 i32-56o
+>CLC9A_MOUSE
+EMBOSS_001                      1  0 i32-56o
+>CLCL1_HUMAN
+EMBOSS_001                      1  0 o63-85i
+>CLN5_BOVIN
+EMBOSS_001                      0  0 o
+>CLN5_CANLF
+EMBOSS_001                      0  0 o
+>CLN5_HUMAN
+EMBOSS_001                      1  0 i24-42o
+>CLN5_SHEEP
+EMBOSS_001                      0  0 o
+>CODA1_HUMAN
+EMBOSS_001                      1  0 i45-63o
+>CODA1_MOUSE
+EMBOSS_001                      0  0 o
+>COHA1_BOVIN
+EMBOSS_001                      1  0 o471-495i
+>COHA1_CANLF
+EMBOSS_001                      1  0 o465-489i
+>COHA1_HUMAN
+EMBOSS_001                      1  0 o464-488i
+>COHA1_MESAU
+EMBOSS_001                      1  0 o469-493i
+>COHA1_MOUSE
+EMBOSS_001                      1  0 o473-497i
+>COL12_HUMAN
+EMBOSS_001                      1  0 i38-59o
+>COMT_BOVIN
+EMBOSS_001                      1  0 o6-25i
+>COMT_HORSE
+EMBOSS_001                      1  0 o6-25i
+>COMT_HUMAN
+EMBOSS_001                      0  Y n7-26c34/35o
+>COMT_MOUSE
+EMBOSS_001                      0  Y n2-17c25/26o
+>COMT_RAT
+EMBOSS_001                      0  Y n3-18c25/26o
+>CONA1_RAT
+EMBOSS_001                      0  0 o
+>CORIN_HUMAN
+EMBOSS_001                      1  0 i46-69o
+>CORIN_RAT
+EMBOSS_001                      1  0 i113-136o
+>CP4Z1_HUMAN
+EMBOSS_001                      1  0 o12-33i
+>CR3L1_HUMAN
+EMBOSS_001                      1  0 o376-395i
+>CR3L1_MOUSE
+EMBOSS_001                      1  0 o376-397i
+>CR3L1_RAT
+EMBOSS_001                      1  0 o375-396i
+>CR3L2_HUMAN
+EMBOSS_001                      1  0 o380-398i
+>CR3L2_MOUSE
+EMBOSS_001                      1  0 o380-398i
+>CR3L2_PONAB
+EMBOSS_001                      1  0 o380-398i
+>CR3L2_RAT
+EMBOSS_001                      1  0 o380-401i
+>CR3L3_BOVIN
+EMBOSS_001                      1  0 o319-338i
+>CR3L3_HUMAN
+EMBOSS_001                      1  0 o318-336i
+>CR3L3_MOUSE
+EMBOSS_001                      1  0 o314-332i
+>CR3L3_RAT
+EMBOSS_001                      1  0 o314-332i
+>CR3L4_HUMAN
+EMBOSS_001                      1  0 o291-310i
+>CR3L4_MACFA
+EMBOSS_001                      1  0 o291-310i
+>CR3L4_MOUSE
+EMBOSS_001                      1  0 o267-289i
+>CR3L4_RAT
+EMBOSS_001                      1  0 o263-285i
+>CREB3_BOVIN
+EMBOSS_001                      1  0 o229-250i
+>CREB3_HUMAN
+EMBOSS_001                      1  0 o226-247i
+>CREB3_MOUSE
+EMBOSS_001                      1  0 o261-282i
+>DHB2_HUMAN
+EMBOSS_001                      1  Y n9-20c25/26o35-68i
+>DHB2_MOUSE
+EMBOSS_001                      2  Y n9-20c25/26o41-70i345-364o
+>DHB2_RAT
+EMBOSS_001                      3  Y n8-19c27/28o43-71i215-234o345-364i
+>DHI1_BOVIN
+EMBOSS_001                      1  0 i7-23o
+>DHI1_CAVPO
+EMBOSS_001                      1  0 i7-23o
+>DHI1_HUMAN
+EMBOSS_001                      1  0 i7-23o
+>DHI1_MESAU
+EMBOSS_001                      0  Y n8-19c24/25o
+>DHI1_MOUSE
+EMBOSS_001                      1  0 o6-21i
+>DHI1_RABIT
+EMBOSS_001                      0  Y n8-19c24/25o
+>DHI1_RAT
+EMBOSS_001                      0  Y n5-15c20/21o
+>DHI1_SAISC
+EMBOSS_001                      3  0 o6-24i144-169o175-194i
+>DHI1_SHEEP
+EMBOSS_001                      1  0 i7-23o
+>DIK1A_HUMAN
+EMBOSS_001                      1  0 i28-47o
+>DIK1A_MOUSE
+EMBOSS_001                      1  0 i28-47o
+>DIK1A_PONAB
+EMBOSS_001                      1  0 i28-47o
+>DIK1B_HUMAN
+EMBOSS_001                      1  Y n7-14c22/23o32-50i
+>DIK1B_MOUSE
+EMBOSS_001                      1  Y n7-14c19/20o29-50i
+>DIK1B_RAT
+EMBOSS_001                      1  Y n7-14c19/20o29-50i
+>DIK1C_HUMAN
+EMBOSS_001                      0  Y n25-43c51/52o
+>DIK1C_MOUSE
+EMBOSS_001                      0  Y n21-40c48/49o
+>DOPO_BOVIN
+EMBOSS_001                      0  Y n18-30c35/36o
+>DOPO_CANLF
+EMBOSS_001                      1  0 i12-34o
+>DOPO_HORSE
+EMBOSS_001                      0  Y n16-27c32/33o
+>DOPO_HUMAN
+EMBOSS_001                      1  0 o20-37i
+>DOPO_MOUSE
+EMBOSS_001                      1  0 o23-41i
+>DOPO_RAT
+EMBOSS_001                      1  0 i21-40o
+>DPP10_HUMAN
+EMBOSS_001                      1  0 i35-56o
+>DPP10_MOUSE
+EMBOSS_001                      1  0 i36-57o
+>DPP10_RAT
+EMBOSS_001                      1  0 i35-56o
+>DPP4_BOVIN
+EMBOSS_001                      0  Y n7-18c22/23o
+>DPP4_FELCA
+EMBOSS_001                      0  Y n7-18c22/23o
+>DPP4_HUMAN
+EMBOSS_001                      0  Y n7-18c22/23o
+>DPP4_MOUSE
+EMBOSS_001                      1  0 i7-28o
+>DPP4_PIG
+EMBOSS_001                      0  Y n7-18c22/23o
+>DPP4_RAT
+EMBOSS_001                      0  Y n7-18c22/23o
+>DPP6_BOVIN
+EMBOSS_001                      1  0 i94-115o
+>DPP6_HUMAN
+EMBOSS_001                      1  0 i96-117o
+>DPP6_MOUSE
+EMBOSS_001                      1  0 i35-56o
+>DPP6_PANTR
+EMBOSS_001                      1  0 i34-55o
+>DPP6_RAT
+EMBOSS_001                      1  0 i90-111o
+>DRS7B_BOVIN
+EMBOSS_001                      1  0 o18-41i
+>DRS7B_HUMAN
+EMBOSS_001                      2  0 o18-41i292-313o
+>DRS7B_MOUSE
+EMBOSS_001                      1  0 o20-41i
+>DRS7B_PONAB
+EMBOSS_001                      2  0 o18-41i292-313o
+>DRS7B_RAT
+EMBOSS_001                      1  0 o20-41i
+>DYSF_BOVIN
+EMBOSS_001                      1  0 o2073-2094i
+>DYSF_HUMAN
+EMBOSS_001                      1  0 o2045-2067i
+>ECE1_BOVIN
+EMBOSS_001                      1  0 i53-75o
+>ECE1_CAVPO
+EMBOSS_001                      1  0 i53-75o
+>ECE1_HUMAN
+EMBOSS_001                      1  0 i69-91o
+>ECE1_RAT
+EMBOSS_001                      2  0 o23-41i61-83o
+>ECE2_BOVIN
+EMBOSS_001                      1  0 i61-85o
+>ECE2_HUMAN
+EMBOSS_001                      1  0 i107-131o
+>ECE2_MOUSE
+EMBOSS_001                      1  0 i61-83o
+>ECEL1_RAT
+EMBOSS_001                      1  0 i60-82o
+>EDA_BOVIN
+EMBOSS_001                      1  0 o42-62i
+>EDA_HUMAN
+EMBOSS_001                      1  0 o41-62i
+>EDA_MOUSE
+EMBOSS_001                      1  0 o42-62i
+>EDEM1_HUMAN
+EMBOSS_001                      0  Y n6-17c26/27o
+>EDEM1_MOUSE
+EMBOSS_001                      0  Y n6-21c26/27o
+>EFCE2_BOVIN
+EMBOSS_001                      1  0 i179-203o
+>EFCE2_MOUSE
+EMBOSS_001                      1  0 i179-201o
+>ENPP1_HUMAN
+EMBOSS_001                      1  0 i77-97o
+>ENPP1_MOUSE
+EMBOSS_001                      1  0 i59-79o
+>ENPP1_RAT
+EMBOSS_001                      1  0 i59-79o
+>ENPP3_BOVIN
+EMBOSS_001                      1  0 i21-45o
+>ENPP3_HUMAN
+EMBOSS_001                      1  0 i21-45o
+>ENPP3_MOUSE
+EMBOSS_001                      1  0 i21-45o
+>ENPP3_PONAB
+EMBOSS_001                      1  0 i21-45o
+>ENPP3_RAT
+EMBOSS_001                      1  0 i21-45o
+>ENTP6_HUMAN
+EMBOSS_001                      1  0 i38-59o
+>ENTP6_MOUSE
+EMBOSS_001                      1  0 i12-31o
+>ENTP6_RAT
+EMBOSS_001                      1  0 i12-31o
+>ERAP1_HUMAN
+EMBOSS_001                      0  Y n15-26c32/33o
+>ERAP1_MOUSE
+EMBOSS_001                      0  Y n4-15c20/21o
+>ERAP1_RAT
+EMBOSS_001                      0  Y n4-15c20/21o
+>ERAP2_BOVIN
+EMBOSS_001                      1  0 i12-33o
+>ERAP2_HUMAN
+EMBOSS_001                      0  Y n21-29c35/36o
+>ERAP2_PONAB
+EMBOSS_001                      0  Y n21-29c35/36o
+>ERLN1_HUMAN
+EMBOSS_001                      0  Y n8-19c23/24o
+>ERLN1_MOUSE
+EMBOSS_001                      0  Y n8-19c23/24o
+>ERLN1_PONAB
+EMBOSS_001                      0  Y n8-19c23/24o
+>ERLN2_BOVIN
+EMBOSS_001                      0  Y n4-16c21/22o
+>ERLN2_HUMAN
+EMBOSS_001                      0  Y n4-16c21/22o
+>ERLN2_MOUSE
+EMBOSS_001                      0  Y n4-16c21/22o
+>ERLN2_PONAB
+EMBOSS_001                      0  Y n4-16c21/22o
+>ERLN2_RAT
+EMBOSS_001                      0  Y n4-16c21/22o
+>EXT1_BOVIN
+EMBOSS_001                      1  0 i7-28o
+>EXT1_CRIGR
+EMBOSS_001                      1  0 i7-28o
+>EXT1_HUMAN
+EMBOSS_001                      1  0 i7-28o
+>EXT1_MOUSE
+EMBOSS_001                      1  0 i7-28o
+>EXT1_PAPAN
+EMBOSS_001                      1  0 i7-28o
+>EXT1_PONAB
+EMBOSS_001                      1  0 i7-28o
+>EXT2_BOVIN
+EMBOSS_001                      1  0 i24-46o
+>EXT2_HUMAN
+EMBOSS_001                      1  0 i24-46o
+>EXT2_MOUSE
+EMBOSS_001                      1  0 i24-46o
+>EXTL1_HUMAN
+EMBOSS_001                      0  Y n10-25c33/34o
+>EXTL1_MOUSE
+EMBOSS_001                      0  Y n10-25c30/31o
+>EXTL2_HUMAN
+EMBOSS_001                      1  0 o18-43i
+>EXTL2_MOUSE
+EMBOSS_001                      0  Y n22-33c38/39o
+>EXTL3_HUMAN
+EMBOSS_001                      1  0 i29-51o
+>EXTL3_MOUSE
+EMBOSS_001                      1  0 i29-51o
+>FA20C_HUMAN
+EMBOSS_001                      0  Y n11-21c26/27o
+>FA20C_MOUSE
+EMBOSS_001                      0  Y n11-21c26/27o
+>FCER2_HUMAN
+EMBOSS_001                      1  0 i24-47o
+>FICD_CRIGR
+EMBOSS_001                      0  Y n21-39c43/44o
+>FICD_HUMAN
+EMBOSS_001                      0  Y n24-42c46/47o
+>FICD_MOUSE
+EMBOSS_001                      1  0 o24-47i
+>FICD_RAT
+EMBOSS_001                      0  Y n29-42c46/47o
+>FKRP_HUMAN
+EMBOSS_001                      0  Y n8-22c27/28o
+>FKRP_MOUSE
+EMBOSS_001                      1  0 i7-27o
+>FKTN_HUMAN
+EMBOSS_001                      0  Y n8-15c19/20o
+>FKTN_MACFA
+EMBOSS_001                      0  Y n8-15c19/20o
+>FKTN_MOUSE
+EMBOSS_001                      0  Y n8-15c19/20o
+>FOLH1_HUMAN
+EMBOSS_001                      1  0 i20-43o
+>FOLH1_MOUSE
+EMBOSS_001                      1  0 i20-44o
+>FOLH1_PIG
+EMBOSS_001                      1  0 i20-43o
+>FOLH1_RAT
+EMBOSS_001                      1  0 i20-44o
+>FREY_AILME
+EMBOSS_001                      0  Y n13-24c29/30o
+>FREY_BOVIN
+EMBOSS_001                      0  Y n13-24c29/30o
+>FREY_HUMAN
+EMBOSS_001                      0  Y n13-25c30/31o
+>FREY_MOUSE
+EMBOSS_001                      0  Y n13-24c29/30o
+>FUT10_BOVIN
+EMBOSS_001                      1  0 i9-30o
+>FUT10_CANLF
+EMBOSS_001                      0  Y n9-24c32/33o
+>FUT10_HUMAN
+EMBOSS_001                      0  Y n9-24c32/33o
+>FUT10_MOUSE
+EMBOSS_001                      0  Y n9-22c27/28o
+>FUT10_RAT
+EMBOSS_001                      1  0 i9-30o
+>FUT11_HUMAN
+EMBOSS_001                      0  Y n8-16c21/22o
+>FUT11_MOUSE
+EMBOSS_001                      0  Y n8-19c28/29o
+>FUT11_RAT
+EMBOSS_001                      0  Y n8-19c28/29o
+>FUT1_ALOBE
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_ALOCA
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_AOTAZ
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_AOTNA
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_ATEBE
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_BOVIN
+EMBOSS_001                      1  0 o6-27i
+>FUT1_GORGO
+EMBOSS_001                      1  0 i12-29o
+>FUT1_HUMAN
+EMBOSS_001                      0  Y n10-25c29/30o
+>FUT1_LAGLA
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_LEOCY
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_LEOFU
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_MICHU
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_MOUSE
+EMBOSS_001                      0  Y n9-20c25/26o
+>FUT1_PANTR
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_PIG
+EMBOSS_001                      0  Y n10-25c29/30o
+>FUT1_PLEBR
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_RABIT
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_RAT
+EMBOSS_001                      0  Y n9-20c25/26o
+>FUT1_SAIBB
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_SAISC
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT1_SAPAP
+EMBOSS_001                      0  Y n9-19c23/24o
+>FUT2_BOVIN
+EMBOSS_001                      1  0 o6-28i
+>FUT2_GORGO
+EMBOSS_001                      1  0 o12-28i
+>FUT2_HUMAN
+EMBOSS_001                      1  0 o12-28i
+>FUT2_HYLLA
+EMBOSS_001                      1  0 o12-28i
+>FUT2_MOUSE
+EMBOSS_001                      1  0 o6-28i
+>FUT2_PANTR
+EMBOSS_001                      1  0 o6-28i
+>FUT2_PIG
+EMBOSS_001                      1  0 o6-28i
+>FUT2_PONPY
+EMBOSS_001                      1  0 o6-28i
+>FUT2_RABIT
+EMBOSS_001                      1  0 i20-41o
+>FUT2_RAT
+EMBOSS_001                      1  0 o6-28i
+>FUT3_BOVIN
+EMBOSS_001                      1  0 o12-34i
+>FUT3_HUMAN
+EMBOSS_001                      0  Y n16-34c38/39o
+>FUT3_PANTR
+EMBOSS_001                      0  Y n16-34c38/39o
+>FUT3_PONPY
+EMBOSS_001                      0  Y n16-34c38/39o
+>FUT4_BOVIN
+EMBOSS_001                      0  Y n19-30c35/36o
+>FUT4_HUMAN
+EMBOSS_001                      1  0 i149-170o
+>FUT4_MOUSE
+EMBOSS_001                      0  0 o
+>FUT4_PANTR
+EMBOSS_001                      1  0 i149-170o
+>FUT4_RAT
+EMBOSS_001                      0  0 o
+>FUT5_GORGO
+EMBOSS_001                      1  0 i12-34o
+>FUT5_HUMAN
+EMBOSS_001                      1  0 o12-34i
+>FUT5_HYLLA
+EMBOSS_001                      0  Y n16-34c38/39o
+>FUT5_PANTR
+EMBOSS_001                      1  0 o12-34i
+>FUT5_PONPY
+EMBOSS_001                      1  0 o12-34i
+>FUT6_GORGO
+EMBOSS_001                      1  0 i12-34o
+>FUT6_HUMAN
+EMBOSS_001                      1  0 i12-34o
+>FUT6_PANTR
+EMBOSS_001                      1  0 i12-34o
+>FUT6_PONPY
+EMBOSS_001                      1  0 i12-34o
+>FUT7_HUMAN
+EMBOSS_001                      1  0 i12-34o
+>FUT7_MOUSE
+EMBOSS_001                      1  0 i61-81o
+>FUT7_RAT
+EMBOSS_001                      1  0 i42-61o
+>FUT8_BOVIN
+EMBOSS_001                      1  0 i12-30o
+>FUT8_CANLF
+EMBOSS_001                      1  0 i12-30o
+>FUT8_HUMAN
+EMBOSS_001                      1  0 i12-30o
+>FUT8_MOUSE
+EMBOSS_001                      1  0 i12-30o
+>FUT8_PANTR
+EMBOSS_001                      1  0 i12-30o
+>FUT8_PIG
+EMBOSS_001                      1  0 i12-30o
+>FUT8_PONAB
+EMBOSS_001                      1  0 i12-30o
+>FUT8_RAT
+EMBOSS_001                      1  0 i12-30o
+>FUT9_BOVIN
+EMBOSS_001                      1  0 i12-30o
+>FUT9_CANLF
+EMBOSS_001                      1  0 i12-30o
+>FUT9_CRIGR
+EMBOSS_001                      1  0 i12-30o
+>FUT9_HUMAN
+EMBOSS_001                      1  0 i12-30o
+>FUT9_MOUSE
+EMBOSS_001                      1  0 i12-30o
+>FUT9_PANTR
+EMBOSS_001                      1  0 i12-30o
+>FUT9_RAT
+EMBOSS_001                      1  0 i12-30o
+>G3ST1_BOVIN
+EMBOSS_001                      0  Y n16-29c33/34o
+>G3ST1_HUMAN
+EMBOSS_001                      0  Y n16-28c33/34o
+>G3ST1_MOUSE
+EMBOSS_001                      0  Y n16-27c31/32o
+>G3ST2_HUMAN
+EMBOSS_001                      0  Y n14-28c33/34o
+>G3ST2_MOUSE
+EMBOSS_001                      1  0 i12-35o
+>G3ST2_PIG
+EMBOSS_001                      1  0 o12-29i
+>G3ST3_BOVIN
+EMBOSS_001                      0  Y n19-34c39/40o
+>G3ST3_HUMAN
+EMBOSS_001                      0  Y n20-35c40/41o
+>G3ST3_MOUSE
+EMBOSS_001                      0  Y n21-34c39/40o
+>G3ST4_BOVIN
+EMBOSS_001                      1  0 o20-39i
+>G3ST4_HUMAN
+EMBOSS_001                      1  0 o20-39i
+>GAK1B_HUMAN
+EMBOSS_001                      1  0 i38-56o
+>GAK1B_MOUSE
+EMBOSS_001                      1  0 i38-56o
+>GAK1B_RAT
+EMBOSS_001                      1  0 i38-56o
+>GALT1_BOVIN
+EMBOSS_001                      1  0 i9-28o
+>GALT1_HUMAN
+EMBOSS_001                      1  0 i9-28o
+>GALT1_MOUSE
+EMBOSS_001                      1  0 i9-28o
+>GALT1_PIG
+EMBOSS_001                      1  0 i9-28o
+>GALT1_RAT
+EMBOSS_001                      1  0 i9-28o
+>GALT2_HUMAN
+EMBOSS_001                      0  Y n8-20c32/33o
+>GALT2_MOUSE
+EMBOSS_001                      0  Y n8-20c32/33o
+>GALT3_HUMAN
+EMBOSS_001                      1  0 i20-37o
+>GALT3_MOUSE
+EMBOSS_001                      1  0 i20-37o
+>GALT4_HUMAN
+EMBOSS_001                      0  Y n12-23c41/42o
+>GALT4_MOUSE
+EMBOSS_001                      0  Y n12-25c34/35o
+>GALT5_HUMAN
+EMBOSS_001                      0  Y n14-28c36/37o
+>GALT5_MOUSE
+EMBOSS_001                      0  Y n14-28c36/37o
+>GALT5_RAT
+EMBOSS_001                      0  Y n14-28c36/37o
+>GALT6_BOVIN
+EMBOSS_001                      0  Y n16-27c33/34o
+>GALT6_HUMAN
+EMBOSS_001                      0  Y n16-27c34/35o
+>GALT6_MOUSE
+EMBOSS_001                      0  Y n13-24c28/29o
+>GALT7_HUMAN
+EMBOSS_001                      1  0 i7-28o
+>GALT7_MOUSE
+EMBOSS_001                      0  Y n12-24c29/30o
+>GALT7_PONAB
+EMBOSS_001                      1  0 i7-28o
+>GALT7_RAT
+EMBOSS_001                      0  Y n12-24c29/30o
+>GALT8_HUMAN
+EMBOSS_001                      0  Y n10-21c28/29o
+>GALT9_HUMAN
+EMBOSS_001                      1  0 i7-27o
+>GALT9_MACFA
+EMBOSS_001                      1  0 i7-27o
+>GBGT1_CANLF
+EMBOSS_001                      1  0 i7-27o
+>GBGT1_HUMAN
+EMBOSS_001                      0  Y n6-16c21/22o
+>GBGT1_MOUSE
+EMBOSS_001                      1  0 o6-24i
+>GCNT1_BOVIN
+EMBOSS_001                      0  Y n19-29c33/34o
+>GCNT1_HUMAN
+EMBOSS_001                      0  Y n21-32c36/37o
+>GCNT1_MOUSE
+EMBOSS_001                      0  Y n21-32c36/37o
+>GCNT3_BOSMU
+EMBOSS_001                      0  Y n16-27c31/32o
+>GCNT3_BOVIN
+EMBOSS_001                      0  Y n16-27c31/32o
+>GCNT3_BUBBU
+EMBOSS_001                      0  Y n16-27c31/32o
+>GCNT3_HUMAN
+EMBOSS_001                      1  0 i12-31o
+>GCNT3_MOUSE
+EMBOSS_001                      1  0 i12-31o
+>GCNT3_RAT
+EMBOSS_001                      1  0 o12-31i
+>GCNT3_SHEEP
+EMBOSS_001                      0  Y n16-27c31/32o
+>GCNT3_SYNCA
+EMBOSS_001                      0  Y n16-27c31/32o
+>GCNT4_HUMAN
+EMBOSS_001                      0  Y n16-26c31/32o
+>GCNT4_MOUSE
+EMBOSS_001                      0  Y n16-26c31/32o
+>GCNT7_HUMAN
+EMBOSS_001                      0  Y n15-25c33/34o
+>GCNT7_MOUSE
+EMBOSS_001                      1  0 i7-25o
+>GCNT7_PIG
+EMBOSS_001                      1  0 i7-25o
+>GGT1_HUMAN
+EMBOSS_001                      0  Y n5-24c29/30o
+>GGT1_MOUSE
+EMBOSS_001                      1  0 i7-28o
+>GGT1_PIG
+EMBOSS_001                      0  Y n6-25c30/31o
+>GGT1_RAT
+EMBOSS_001                      2  0 i5-27o66-90i
+>GGT3_HUMAN
+EMBOSS_001                      0  Y n5-24c29/30o
+>GGT5_HUMAN
+EMBOSS_001                      0  Y n11-29c47/48o
+>GGT5_MOUSE
+EMBOSS_001                      0  Y n7-22c26/27o
+>GGT5_RAT
+EMBOSS_001                      0  Y n7-18c26/27o
+>GGT6_BOVIN
+EMBOSS_001                      1  0 o54-73i
+>GGT6_HUMAN
+EMBOSS_001                      1  0 o56-75i
+>GGT6_MOUSE
+EMBOSS_001                      1  0 o58-77i
+>GGT6_RAT
+EMBOSS_001                      1  0 o56-75i
+>GGT7_BOVIN
+EMBOSS_001                      1  0 i107-131o
+>GGT7_HUMAN
+EMBOSS_001                      0  0 o
+>GGT7_MOUSE
+EMBOSS_001                      0  0 o
+>GGT7_RAT
+EMBOSS_001                      0  0 o
+>GGTA1_ALOCA
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_BOVIN
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_CALJA
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_FELCA
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_HUMAN
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_LEMCA
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_LORTA
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_MOUSE
+EMBOSS_001                      1  0 i42-60o
+>GGTA1_PIG
+EMBOSS_001                      1  0 i7-25o
+>GGTA1_RAT
+EMBOSS_001                      1  0 i41-59o
+>GGTA1_SAPAP
+EMBOSS_001                      1  0 i7-25o
+>GLCE_BOVIN
+EMBOSS_001                      0  Y n13-28c33/34o
+>GLCE_HUMAN
+EMBOSS_001                      0  Y n13-28c33/34o
+>GLCE_MOUSE
+EMBOSS_001                      0  Y n13-28c33/34o
+>GLDN_HUMAN
+EMBOSS_001                      0  Y n18-29c37/38o
+>GLDN_MOUSE
+EMBOSS_001                      1  0 o20-39i
+>GLDN_RAT
+EMBOSS_001                      1  0 o20-39i
+>GLT10_HUMAN
+EMBOSS_001                      0  Y n8-21c29/30o
+>GLT10_MOUSE
+EMBOSS_001                      0  Y n8-21c29/30o
+>GLT10_RAT
+EMBOSS_001                      0  Y n8-21c29/30o
+>GLT11_HUMAN
+EMBOSS_001                      1  0 i9-30o
+>GLT11_MOUSE
+EMBOSS_001                      1  0 i9-30o
+>GLT11_RAT
+EMBOSS_001                      1  0 o6-28i
+>GLT12_HUMAN
+EMBOSS_001                      0  Y n20-30c48/49o
+>GLT12_MOUSE
+EMBOSS_001                      0  Y n20-31c36/37o
+>GLT13_HUMAN
+EMBOSS_001                      1  0 i9-28o
+>GLT13_MOUSE
+EMBOSS_001                      1  0 i9-28o
+>GLT13_RAT
+EMBOSS_001                      1  0 i9-28o
+>GLT14_HUMAN
+EMBOSS_001                      1  0 i7-26o
+>GLT14_MOUSE
+EMBOSS_001                      1  0 i7-26o
+>GLT15_HUMAN
+EMBOSS_001                      0  Y n17-28c46/47o
+>GLT15_MOUSE
+EMBOSS_001                      0  Y n14-33c42/43o
+>GLT16_HUMAN
+EMBOSS_001                      1  0 i7-25o
+>GLT16_MOUSE
+EMBOSS_001                      1  0 i7-25o
+>GLT17_HUMAN
+EMBOSS_001                      0  Y n9-24c28/29o
+>GLT17_MOUSE
+EMBOSS_001                      1  0 i7-26o
+>GLT18_HUMAN
+EMBOSS_001                      1  0 i9-31o
+>GLT18_MOUSE
+EMBOSS_001                      1  0 i9-31o
+>GLTL5_HUMAN
+EMBOSS_001                      1  0 i9-27o
+>GLTL5_MACFA
+EMBOSS_001                      1  0 i9-27o
+>GLTL5_MOUSE
+EMBOSS_001                      1  0 o6-29i
+>GLTL6_HUMAN
+EMBOSS_001                      0  Y n12-22c27/28o
+>GNT2A_HUMAN
+EMBOSS_001                      0  Y n8-20c25/26o
+>GOLI4_HUMAN
+EMBOSS_001                      1  0 i12-34o
+>GOLI4_MOUSE
+EMBOSS_001                      1  0 i12-34o
+>GOLI4_RAT
+EMBOSS_001                      1  0 i12-34o
+>GOLM1_HUMAN
+EMBOSS_001                      0  Y n16-27c39/40o
+>GOLM1_MOUSE
+EMBOSS_001                      0  Y n16-27c39/40o
+>GTA1L_MOUSE
+EMBOSS_001                      0  Y n7-17c22/23o
+>GTA1L_RAT
+EMBOSS_001                      0  Y n8-19c24/25o
+>HEPS_HUMAN
+EMBOSS_001                      1  0 i21-44o
+>HEPS_MOUSE
+EMBOSS_001                      1  0 i37-63o
+>HEPS_PONAB
+EMBOSS_001                      1  0 i21-44o
+>HEPS_RAT
+EMBOSS_001                      0  Y n17-28c33/34o
+>HG2A_MOUSE
+EMBOSS_001                      1  0 i30-55o
+>HG2A_RAT
+EMBOSS_001                      1  0 o32-56i
+>HN_PIV5
+EMBOSS_001                      1  0 i14-36o
+>HN_PIV5C
+EMBOSS_001                      1  0 o14-36i
+>HN_PIV5D
+EMBOSS_001                      1  0 o14-36i
+>HN_PIV5L
+EMBOSS_001                      1  0 i14-36o
+>HS2ST_CRILO
+EMBOSS_001                      0  Y n12-22c27/28o
+>HS2ST_HUMAN
+EMBOSS_001                      0  Y n12-22c27/28o
+>HS2ST_MOUSE
+EMBOSS_001                      0  Y n12-22c27/28o
+>HS2ST_PONAB
+EMBOSS_001                      0  Y n12-22c27/28o
+>HS3S2_HUMAN
+EMBOSS_001                      1  0 i20-38o
+>HS3S2_MOUSE
+EMBOSS_001                      1  0 i20-38o
+>HS3S2_RAT
+EMBOSS_001                      1  0 i20-38o
+>HS3S4_HUMAN
+EMBOSS_001                      1  0 i35-53o
+>HS3S5_HUMAN
+EMBOSS_001                      0  Y n13-25c29/30o
+>HS3S5_MOUSE
+EMBOSS_001                      0  Y n13-28c33/34o
+>HS3S6_HUMAN
+EMBOSS_001                      1  0 i30-49o
+>HS3S6_MOUSE
+EMBOSS_001                      1  0 o28-47i
+>HS3SA_HUMAN
+EMBOSS_001                      1  0 i21-40o
+>HS3SA_MOUSE
+EMBOSS_001                      1  0 i21-40o
+>HS3SB_HUMAN
+EMBOSS_001                      1  0 i33-50o
+>HS3SB_MOUSE
+EMBOSS_001                      1  0 i33-50o
+>IEX1_HUMAN
+EMBOSS_001                      0  0 o
+>IFM2_HUMAN
+EMBOSS_001                      2  0 o57-79i107-127o
+>IFM2_MOUSE
+EMBOSS_001                      2  0 o57-79i110-136o
+>IFM3_HUMAN
+EMBOSS_001                      2  0 o58-80i108-132o
+>IFM3_MOUSE
+EMBOSS_001                      2  0 o58-80i111-132o
+>IFM3_RAT
+EMBOSS_001                      2  0 o58-80i111-132o
+>IMPA3_BOVIN
+EMBOSS_001                      1  0 o6-28i
+>IMPA3_CALJA
+EMBOSS_001                      1  0 o6-28i
+>IMPA3_HUMAN
+EMBOSS_001                      1  0 o6-28i
+>IMPA3_MOUSE
+EMBOSS_001                      1  0 o6-28i
+>IMPA3_PIG
+EMBOSS_001                      1  0 o6-28i
+>IMPA3_RAT
+EMBOSS_001                      1  0 o6-28i
+>ITM2B_BOVIN
+EMBOSS_001                      1  0 i52-76o
+>ITM2B_HUMAN
+EMBOSS_001                      1  0 i52-76o
+>ITM2B_MACFA
+EMBOSS_001                      1  0 i52-76o
+>ITM2B_MOUSE
+EMBOSS_001                      1  0 i52-76o
+>ITM2B_PANTR
+EMBOSS_001                      1  0 i52-76o
+>ITM2B_PONAB
+EMBOSS_001                      1  0 i52-76o
+>ITM2B_RAT
+EMBOSS_001                      1  0 i52-76o
+>ITM2C_BOVIN
+EMBOSS_001                      1  0 i62-84o
+>ITM2C_HUMAN
+EMBOSS_001                      1  0 i58-80o
+>ITM2C_MACFA
+EMBOSS_001                      1  0 i58-80o
+>ITM2C_MOUSE
+EMBOSS_001                      1  0 i60-82o
+>ITM2C_PIG
+EMBOSS_001                      1  0 i60-82o
+>ITM2C_PONAB
+EMBOSS_001                      1  0 i58-80o
+>ITM2C_RAT
+EMBOSS_001                      1  0 i60-82o
+>KELL_HUMAN
+EMBOSS_001                      1  0 i48-69o
+>KKLC1_HUMAN
+EMBOSS_001                      0  Y n5-16c20/21o
+>KLRA1_MOUSE
+EMBOSS_001                      1  0 o45-66i
+>KLRA2_MOUSE
+EMBOSS_001                      1  0 o45-69i
+>KLRA3_MOUSE
+EMBOSS_001                      1  0 o45-66i
+>KLRA5_MOUSE
+EMBOSS_001                      1  0 o50-69i
+>KLRA6_MOUSE
+EMBOSS_001                      1  0 o45-66i
+>KLRA7_MOUSE
+EMBOSS_001                      1  0 o46-69i
+>KLRBA_MOUSE
+EMBOSS_001                      1  0 i45-66o
+>KLRBA_RAT
+EMBOSS_001                      1  0 i46-67o
+>KLRBC_MOUSE
+EMBOSS_001                      1  0 i45-66o
+>KLRD1_BOVIN
+EMBOSS_001                      1  0 o12-31i
+>KLRD1_CANLF
+EMBOSS_001                      1  0 o12-31i
+>KLRD1_HUMAN
+EMBOSS_001                      1  0 o12-31i
+>KLRD1_MACMU
+EMBOSS_001                      1  0 o12-31i
+>KLRD1_MOUSE
+EMBOSS_001                      1  0 i12-32o
+>KLRD1_PANTR
+EMBOSS_001                      1  0 o12-31i
+>KLRD1_PONPY
+EMBOSS_001                      1  0 o6-31i
+>KLRD1_RAT
+EMBOSS_001                      0  Y n20-31c36/37o
+>KLRE1_MOUSE
+EMBOSS_001                      1  0 o69-91i
+>KLRE1_RAT
+EMBOSS_001                      1  Y n4-11c15/16o69-91i
+>KLRF2_HUMAN
+EMBOSS_001                      1  0 o29-51i
+>KLRG1_HUMAN
+EMBOSS_001                      1  0 i37-59o
+>KLRG1_MOUSE
+EMBOSS_001                      1  0 i35-56o
+>KLRI1_MOUSE
+EMBOSS_001                      1  0 i77-101o
+>KLRI1_RAT
+EMBOSS_001                      1  0 i77-101o
+>KLRI2_MOUSE
+EMBOSS_001                      1  0 o78-104i
+>KLRI2_RAT
+EMBOSS_001                      1  0 o80-104i
+>KRBBA_MOUSE
+EMBOSS_001                      1  0 i40-64o
+>KTN1_HUMAN
+EMBOSS_001                      1  0 i7-29o
+>KTN1_MOUSE
+EMBOSS_001                      1  0 i7-29o
+>KTN1_VULVU
+EMBOSS_001                      1  0 i7-29o
+>LAP2B_MOUSE
+EMBOSS_001                      1  0 i413-433o
+>LARG1_HUMAN
+EMBOSS_001                      1  0 i12-31o
+>LARG1_MOUSE
+EMBOSS_001                      1  0 i12-31o
+>LARG2_HUMAN
+EMBOSS_001                      0  Y n9-24c28/29o
+>LARG2_MOUSE
+EMBOSS_001                      0  Y n12-23c29/30o
+>LARG2_RAT
+EMBOSS_001                      0  Y n9-20c28/29o
+>LCAP_HUMAN
+EMBOSS_001                      1  0 i111-131o
+>LCAP_MOUSE
+EMBOSS_001                      1  0 i111-131o
+>LCAP_RAT
+EMBOSS_001                      1  0 i111-131o
+>LFNG_BOVIN
+EMBOSS_001                      0  Y n9-22c26/27o
+>LFNG_HUMAN
+EMBOSS_001                      0  Y n9-22c26/27o
+>LFNG_MOUSE
+EMBOSS_001                      0  Y n9-22c26/27o
+>LFNG_RAT
+EMBOSS_001                      0  Y n9-22c26/27o
+>LRC59_BOVIN
+EMBOSS_001                      1  0 i244-264o
+>LRC59_HUMAN
+EMBOSS_001                      1  0 i244-265o
+>LRC59_MOUSE
+EMBOSS_001                      1  0 i244-265o
+>LRC59_RAT
+EMBOSS_001                      1  0 i244-265o
+>MA1A1_PIG
+EMBOSS_001                      1  0 i49-69o
+>MA1B1_HUMAN
+EMBOSS_001                      1  0 i85-104o
+>MA1B1_MOUSE
+EMBOSS_001                      1  0 i50-68o
+>MA1B1_RAT
+EMBOSS_001                      1  0 i49-67o
+>MA2A1_HUMAN
+EMBOSS_001                      1  0 i7-26o
+>MA2A1_RAT
+EMBOSS_001                      1  0 i7-26o
+>MA2A2_HUMAN
+EMBOSS_001                      1  0 i7-26o
+>MA2A2_MOUSE
+EMBOSS_001                      1  0 i7-26o
+>MANEA_HUMAN
+EMBOSS_001                      0  Y n8-19c37/38o
+>MANEA_MOUSE
+EMBOSS_001                      0  Y n9-20c25/26o
+>MANEA_PONAB
+EMBOSS_001                      0  Y n8-19c37/38o
+>MANEA_RAT
+EMBOSS_001                      1  0 i9-30o
+>MANEL_HUMAN
+EMBOSS_001                      0  Y n8-20c25/26o
+>MANEL_MOUSE
+EMBOSS_001                      0  Y n8-20c25/26o
+>MARC1_HUMAN
+EMBOSS_001                      1  0 o20-40i
+>MARC1_MOUSE
+EMBOSS_001                      1  Y n3-13c17/18o27-44i
+>MARCO_HUMAN
+EMBOSS_001                      1  0 i44-68o
+>MARCO_MESAU
+EMBOSS_001                      1  0 o45-69i
+>MARCO_MOUSE
+EMBOSS_001                      1  0 i48-72o
+>MCEM1_HUMAN
+EMBOSS_001                      1  0 o78-106i
+>MCEM1_MOUSE
+EMBOSS_001                      1  0 o69-91i
+>MFNG_HUMAN
+EMBOSS_001                      0  Y n8-18c23/24o
+>MFNG_MOUSE
+EMBOSS_001                      0  Y n10-21c25/26o
+>MFNG_PANTR
+EMBOSS_001                      0  Y n8-18c23/24o
+>MFRP_HUMAN
+EMBOSS_001                      1  0 i65-90o
+>MFRP_MOUSE
+EMBOSS_001                      1  0 i65-90o
+>MGAT1_HUMAN
+EMBOSS_001                      1  0 i7-29o
+>MGAT1_MOUSE
+EMBOSS_001                      1  0 i7-29o
+>MGAT1_RABIT
+EMBOSS_001                      1  0 i7-29o
+>MGAT2_HUMAN
+EMBOSS_001                      0  Y n10-24c29/30o
+>MGAT2_MOUSE
+EMBOSS_001                      0  Y n10-24c29/30o
+>MGAT2_PIG
+EMBOSS_001                      0  Y n10-24c29/30o
+>MGAT2_RAT
+EMBOSS_001                      0  Y n10-24c29/30o
+>MGT4A_BOVIN
+EMBOSS_001                      0  Y n7-18c22/23o
+>MGT4A_HUMAN
+EMBOSS_001                      0  Y n7-18c22/23o
+>MGT4A_MACFA
+EMBOSS_001                      0  Y n7-18c22/23o
+>MGT4A_MOUSE
+EMBOSS_001                      0  Y n7-18c22/23o
+>MGT4A_PONAB
+EMBOSS_001                      0  Y n7-18c22/23o
+>MGT4A_RAT
+EMBOSS_001                      0  Y n7-18c22/23o
+>MGT4B_HUMAN
+EMBOSS_001                      0  Y n8-20c29/30o
+>MGT4B_MOUSE
+EMBOSS_001                      0  Y n8-20c29/30o
+>MGT4C_HUMAN
+EMBOSS_001                      1  0 i26-43o
+>MGT4C_MACFA
+EMBOSS_001                      1  0 i26-43o
+>MGT4C_MOUSE
+EMBOSS_001                      1  0 i26-43o
+>MGT4C_PIG
+EMBOSS_001                      1  0 i24-43o
+>MGT4D_HUMAN
+EMBOSS_001                      0  Y n8-19c24/25o
+>MGT4D_MOUSE
+EMBOSS_001                      0  Y n8-19c24/25o
+>MGT4D_RAT
+EMBOSS_001                      0  Y n8-19c24/25o
+>MGT5A_CRIGR
+EMBOSS_001                      1  0 i14-34o
+>MGT5A_HUMAN
+EMBOSS_001                      1  0 i14-34o
+>MGT5A_MOUSE
+EMBOSS_001                      1  0 i14-34o
+>MGT5A_RAT
+EMBOSS_001                      1  0 i14-34o
+>MGT5B_HUMAN
+EMBOSS_001                      1  0 i21-41o
+>MGT5B_MOUSE
+EMBOSS_001                      1  0 i21-41o
+>MMEL1_HUMAN
+EMBOSS_001                      1  0 o29-48i
+>MMEL1_MOUSE
+EMBOSS_001                      1  0 i20-40o
+>MMEL1_RAT
+EMBOSS_001                      1  0 i29-50o
+>MMP23_BOVIN
+EMBOSS_001                      1  0 i21-39o
+>MMP23_HUMAN
+EMBOSS_001                      1  0 o20-38i
+>MMP23_MOUSE
+EMBOSS_001                      1  0 o19-39i
+>MMP23_RAT
+EMBOSS_001                      0  Y n19-30c34/35o
+>MOGS_HUMAN
+EMBOSS_001                      1  0 i43-66o
+>MOGS_MOUSE
+EMBOSS_001                      1  0 i41-64o
+>MOGS_RAT
+EMBOSS_001                      1  0 i41-66o
+>MSRE_BOVIN
+EMBOSS_001                      1  0 i52-76o
+>MSRE_HUMAN
+EMBOSS_001                      1  0 i51-76o
+>MSRE_MOUSE
+EMBOSS_001                      1  0 i56-81o
+>MSRE_RABIT
+EMBOSS_001                      1  0 i51-76o
+>MYOF_HUMAN
+EMBOSS_001                      1  0 o2026-2048i
+>MYOF_MOUSE
+EMBOSS_001                      1  0 o2013-2035i
+>MYORG_HUMAN
+EMBOSS_001                      1  0 i57-80o
+>MYORG_MOUSE
+EMBOSS_001                      1  0 i56-79o
+>NALD2_HUMAN
+EMBOSS_001                      1  0 i9-31o
+>NALD2_MOUSE
+EMBOSS_001                      1  0 i12-31o
+>NALDL_HUMAN
+EMBOSS_001                      0  Y n6-19c24/25o
+>NALDL_MOUSE
+EMBOSS_001                      0  Y n6-19c24/25o
+>NALDL_RAT
+EMBOSS_001                      1  0 i7-28o
+>NAT8B_HUMAN
+EMBOSS_001                      1  0 i43-76o
+>NAT8B_MOUSE
+EMBOSS_001                      1  0 o53-84i
+>NAT8B_RAT
+EMBOSS_001                      2  0 i36-54o60-78i
+>NAT8_HUMAN
+EMBOSS_001                      2  0 o51-78i199-217o
+>NAT8_MOUSE
+EMBOSS_001                      2  0 i32-53o59-78i
+>NAT8_RAT
+EMBOSS_001                      3  0 i32-53o59-78i199-217o
+>NCEH1_BOVIN
+EMBOSS_001                      0  Y n4-11c15/16o
+>NCEH1_HUMAN
+EMBOSS_001                      0  Y n4-11c15/16o
+>NCEH1_MOUSE
+EMBOSS_001                      0  Y n5-16c28/29o
+>NCEH1_PONAB
+EMBOSS_001                      0  Y n4-11c15/16o
+>NCEH1_RAT
+EMBOSS_001                      1  Y n5-16c26/27o50-69i
+>NDST1_HUMAN
+EMBOSS_001                      1  0 i18-39o
+>NDST1_MOUSE
+EMBOSS_001                      1  0 i18-39o
+>NDST1_RAT
+EMBOSS_001                      1  0 i18-39o
+>NDST2_BOVIN
+EMBOSS_001                      1  0 i20-38o
+>NDST2_HUMAN
+EMBOSS_001                      1  0 i20-38o
+>NDST2_MOUSE
+EMBOSS_001                      1  0 i20-38o
+>NDST3_HUMAN
+EMBOSS_001                      1  0 i15-34o
+>NDST3_MOUSE
+EMBOSS_001                      1  0 i15-34o
+>NDST4_HUMAN
+EMBOSS_001                      1  0 i12-34o
+>NDST4_MOUSE
+EMBOSS_001                      1  0 i12-34o
+>NEP_HUMAN
+EMBOSS_001                      1  0 i29-52o
+>NEP_MOUSE
+EMBOSS_001                      1  0 i29-52o
+>NEP_PONAB
+EMBOSS_001                      1  0 i29-52o
+>NEP_RABIT
+EMBOSS_001                      1  0 i29-52o
+>NEP_RAT
+EMBOSS_001                      1  0 i29-52o
+>NF2L1_BOVIN
+EMBOSS_001                      0  Y n11-22c26/27o
+>NF2L1_HUMAN
+EMBOSS_001                      0  Y n11-22c26/27o
+>NF2L1_MOUSE
+EMBOSS_001                      0  Y n11-22c26/27o
+>NF2L1_PONAB
+EMBOSS_001                      0  Y n11-22c26/27o
+>NKG2A_HUMAN
+EMBOSS_001                      1  0 o71-93i
+>NKG2A_MACMU
+EMBOSS_001                      1  0 o71-93i
+>NKG2A_PANTR
+EMBOSS_001                      1  0 o71-93i
+>NKG2C_HUMAN
+EMBOSS_001                      1  0 o75-97i
+>NKG2C_MACMU
+EMBOSS_001                      1  0 o75-97i
+>NKG2C_PANTR
+EMBOSS_001                      1  0 i75-97o
+>NKG2D_HUMAN
+EMBOSS_001                      1  0 i53-79o
+>NKG2D_MOUSE
+EMBOSS_001                      1  0 i66-89o
+>NKG2E_HUMAN
+EMBOSS_001                      1  0 o75-97i
+>NKG2E_PANTR
+EMBOSS_001                      1  0 i75-97o
+>NKG2F_HUMAN
+EMBOSS_001                      1  0 o75-100i
+>NKG2F_PANTR
+EMBOSS_001                      1  0 o75-100i
+>NSG1_HUMAN
+EMBOSS_001                      1  0 o83-103i
+>NSG1_MACFA
+EMBOSS_001                      1  0 o83-103i
+>NSG1_MOUSE
+EMBOSS_001                      1  0 o83-103i
+>NSG1_PONAB
+EMBOSS_001                      1  0 o83-103i
+>NSG1_RAT
+EMBOSS_001                      1  0 o83-103i
+>NSG2_BOVIN
+EMBOSS_001                      1  0 i67-92o
+>NSG2_HUMAN
+EMBOSS_001                      1  0 i67-92o
+>NSG2_MOUSE
+EMBOSS_001                      1  0 i67-92o
+>NSG2_RAT
+EMBOSS_001                      1  0 i67-92o
+>NSMA5_MOUSE
+EMBOSS_001                      1  0 i74-100o
+>OLR1_BOVIN
+EMBOSS_001                      1  0 o31-54i
+>OLR1_HUMAN
+EMBOSS_001                      1  0 o32-56i
+>OTOF_HUMAN
+EMBOSS_001                      1  0 o1962-1984i
+>OTOF_MOUSE
+EMBOSS_001                      1  0 o1962-1984i
+>OTOF_RAT
+EMBOSS_001                      1  0 o1960-1980i
+>P4HTM_HUMAN
+EMBOSS_001                      1  0 i59-84o
+>P4HTM_MOUSE
+EMBOSS_001                      1  0 i60-85o
+>PCAT1_HUMAN
+EMBOSS_001                      1  0 i46-69o
+>PCAT1_MOUSE
+EMBOSS_001                      1  0 i46-72o
+>PCAT1_RAT
+EMBOSS_001                      1  0 i46-72o
+>PCAT2_HUMAN
+EMBOSS_001                      1  0 i58-84o
+>PCAT2_MOUSE
+EMBOSS_001                      1  0 i59-84o
+>PCAT2_RAT
+EMBOSS_001                      1  0 i59-84o
+>PEX26_CRIGR
+EMBOSS_001                      0  0 o
+>PEX26_HUMAN
+EMBOSS_001                      0  0 o
+>PEX26_MACFA
+EMBOSS_001                      0  0 o
+>PEX26_MOUSE
+EMBOSS_001                      2  0 i229-249o255-281i
+>PHEX_HUMAN
+EMBOSS_001                      1  0 i21-45o
+>PHEX_MOUSE
+EMBOSS_001                      1  0 i21-45o
+>PLD3_BOVIN
+EMBOSS_001                      1  0 i38-60o
+>PLD3_HUMAN
+EMBOSS_001                      1  0 i38-60o
+>PLD3_MACFA
+EMBOSS_001                      1  0 i38-60o
+>PLD3_MOUSE
+EMBOSS_001                      1  0 i38-60o
+>PLD3_PONAB
+EMBOSS_001                      1  0 i38-60o
+>PLD3_RAT
+EMBOSS_001                      1  0 i38-60o
+>PLD4_HUMAN
+EMBOSS_001                      1  0 i31-54o
+>PLD4_MOUSE
+EMBOSS_001                      1  0 i35-57o
+>PLPL3_HUMAN
+EMBOSS_001                      0  0 o
+>PLS1_HUMAN
+EMBOSS_001                      0  0 o
+>PLS1_MOUSE
+EMBOSS_001                      0  0 o
+>PLS1_RAT
+EMBOSS_001                      0  0 o
+>PLS3_HUMAN
+EMBOSS_001                      0  0 o
+>PLS3_MOUSE
+EMBOSS_001                      0  0 o
+>PLS3_RAT
+EMBOSS_001                      0  0 o
+>PLVAP_HUMAN
+EMBOSS_001                      1  0 i27-49o
+>PLVAP_MOUSE
+EMBOSS_001                      1  0 i21-48o
+>PLVAP_RAT
+EMBOSS_001                      1  0 i21-48o
+>PMGT1_BOVIN
+EMBOSS_001                      1  0 i38-59o
+>PMGT1_HUMAN
+EMBOSS_001                      1  0 i38-59o
+>PMGT1_MOUSE
+EMBOSS_001                      1  0 i38-59o
+>PMGT1_PONAB
+EMBOSS_001                      1  0 i38-59o
+>PMGT1_RAT
+EMBOSS_001                      1  0 i38-59o
+>PMGT2_BOVIN
+EMBOSS_001                      0  Y n3-11c16/17o
+>PMGT2_CANLF
+EMBOSS_001                      0  Y n3-11c16/17o
+>PMGT2_HUMAN
+EMBOSS_001                      0  Y n3-11c16/17o
+>PMGT2_MOUSE
+EMBOSS_001                      0  Y n3-11c16/17o
+>PMGT2_PANTR
+EMBOSS_001                      0  Y n3-11c16/17o
+>PMGT2_RAT
+EMBOSS_001                      0  Y n3-11c16/17o
+>PRRT1_HUMAN
+EMBOSS_001                      2  0 o223-244i273-297o
+>PRRT1_MOUSE
+EMBOSS_001                      2  0 o223-244i273-297o
+>PRRT1_RAT
+EMBOSS_001                      2  0 o223-244i273-297o
+>PXYP1_HUMAN
+EMBOSS_001                      0  Y n7-18c23/24o
+>PXYP1_MOUSE
+EMBOSS_001                      0  Y n7-22c34/35o
+>PXYP1_RAT
+EMBOSS_001                      0  Y n7-18c23/24o
+>RDH11_HUMAN
+EMBOSS_001                      0  Y n6-17c22/23o
+>RDH11_MOUSE
+EMBOSS_001                      0  Y n3-14c19/20o
+>RFNG_HUMAN
+EMBOSS_001                      0  Y n11-24c36/37o
+>RFNG_MOUSE
+EMBOSS_001                      0  Y n7-25c30/31o
+>RFNG_RAT
+EMBOSS_001                      0  Y n7-25c30/31o
+>RXLT1_HUMAN
+EMBOSS_001                      0  Y n8-19c23/24o
+>RXLT1_MOUSE
+EMBOSS_001                      0  Y n8-19c23/24o
+>SACA3_HUMAN
+EMBOSS_001                      1  0 i64-84o
+>SACA3_MOUSE
+EMBOSS_001                      1  0 i70-90o
+>SACA3_PANTR
+EMBOSS_001                      1  0 i64-84o
+>SC11A_BOVIN
+EMBOSS_001                      3  0 o18-36i138-156o162-178i
+>SC11A_CANLF
+EMBOSS_001                      3  0 o18-36i138-156o162-178i
+>SC11A_HUMAN
+EMBOSS_001                      3  0 o18-36i138-156o162-178i
+>SC11A_MOUSE
+EMBOSS_001                      3  0 o18-36i138-156o162-178i
+>SC11A_PONAB
+EMBOSS_001                      3  0 o18-36i138-156o162-178i
+>SC11A_RAT
+EMBOSS_001                      3  0 o18-36i138-156o162-178i
+>SC11C_CANLF
+EMBOSS_001                      1  0 i30-48o
+>SC11C_HUMAN
+EMBOSS_001                      1  0 i30-48o
+>SC11C_MOUSE
+EMBOSS_001                      1  0 i30-48o
+>SC11C_PONAB
+EMBOSS_001                      1  0 i30-48o
+>SC11C_RAT
+EMBOSS_001                      1  0 i30-48o
+>SCAR3_HUMAN
+EMBOSS_001                      1  0 i57-77o
+>SCAR3_MOUSE
+EMBOSS_001                      1  0 i57-77o
+>SCAR5_BOVIN
+EMBOSS_001                      1  0 o62-83i
+>SCAR5_HUMAN
+EMBOSS_001                      1  0 o61-82i
+>SCAR5_MOUSE
+EMBOSS_001                      1  0 o61-82i
+>SEC1_BOVIN
+EMBOSS_001                      2  0 i32-55o314-334i
+>SEC1_MOUSE
+EMBOSS_001                      0  Y n5-13c18/19o
+>SEPR_BOVIN
+EMBOSS_001                      0  Y n8-19c23/24o
+>SEPR_HUMAN
+EMBOSS_001                      0  Y n8-19c23/24o
+>SEPR_MOUSE
+EMBOSS_001                      0  Y n8-19c23/24o
+>SG196_HUMAN
+EMBOSS_001                      1  0 o20-38i
+>SG196_MACFA
+EMBOSS_001                      1  0 i21-43o
+>SG196_MOUSE
+EMBOSS_001                      1  0 o20-37i
+>SG196_RAT
+EMBOSS_001                      1  0 i21-42o
+>SGCB_BOVIN
+EMBOSS_001                      1  0 i63-89o
+>SGCB_HUMAN
+EMBOSS_001                      1  0 i64-90o
+>SGCB_MESAU
+EMBOSS_001                      1  0 i66-92o
+>SGCB_MOUSE
+EMBOSS_001                      1  0 i66-92o
+>SGCB_PONAB
+EMBOSS_001                      1  0 i65-91o
+>SGCB_RABIT
+EMBOSS_001                      1  0 i64-90o
+>SGCD_MESAU
+EMBOSS_001                      1  0 i33-56o
+>SGCD_MOUSE
+EMBOSS_001                      1  0 i33-56o
+>SGCG_BOVIN
+EMBOSS_001                      1  0 i35-58o
+>SGCG_CANLF
+EMBOSS_001                      1  0 i35-58o
+>SGCG_HUMAN
+EMBOSS_001                      1  0 i35-58o
+>SGCG_MESAU
+EMBOSS_001                      1  0 i35-58o
+>SGCG_MOUSE
+EMBOSS_001                      1  0 i35-58o
+>SGCZ_HUMAN
+EMBOSS_001                      1  0 i36-58o
+>SGCZ_MOUSE
+EMBOSS_001                      1  0 i49-71o
+>SH_PIV5
+EMBOSS_001                      1  0 i20-39o
+>SIA10_BOVIN
+EMBOSS_001                      0  Y n5-16c21/22o
+>SIA10_HUMAN
+EMBOSS_001                      1  0 o6-32i
+>SIA10_MOUSE
+EMBOSS_001                      1  0 o6-31i
+>SIA10_PANTR
+EMBOSS_001                      1  0 o6-32i
+>SIA10_PONAB
+EMBOSS_001                      1  0 o6-32i
+>SIA10_RAT
+EMBOSS_001                      1  0 o6-31i
+>SIA4A_HUMAN
+EMBOSS_001                      0  Y n11-26c34/35o
+>SIA4A_MOUSE
+EMBOSS_001                      0  Y n9-19c24/25o
+>SIA4A_PANTR
+EMBOSS_001                      0  Y n11-26c34/35o
+>SIA4A_PIG
+EMBOSS_001                      0  Y n12-27c32/33o
+>SIA4B_HUMAN
+EMBOSS_001                      1  0 i7-26o
+>SIA4B_MOUSE
+EMBOSS_001                      1  0 i7-26o
+>SIA4B_PANTR
+EMBOSS_001                      1  0 i7-26o
+>SIA4B_RAT
+EMBOSS_001                      1  0 i7-26o
+>SIA4C_HUMAN
+EMBOSS_001                      0  Y n9-19c26/27o
+>SIA4C_MOUSE
+EMBOSS_001                      0  Y n9-19c26/27o
+>SIA4C_PANTR
+EMBOSS_001                      0  Y n8-18c26/27o
+>SIA4C_RAT
+EMBOSS_001                      0  Y n9-19c26/27o
+>SIA7A_HUMAN
+EMBOSS_001                      0  Y n19-31c35/36o
+>SIA7A_MOUSE
+EMBOSS_001                      1  0 i12-30o
+>SIA7B_HUMAN
+EMBOSS_001                      0  Y n8-26c33/34o
+>SIA7B_MOUSE
+EMBOSS_001                      0  Y n12-25c30/31o
+>SIA7C_HUMAN
+EMBOSS_001                      0  Y n10-23c27/28o
+>SIA7C_MOUSE
+EMBOSS_001                      0  Y n10-25c30/31o
+>SIA7C_RAT
+EMBOSS_001                      0  Y n10-23c28/29o
+>SIA7D_HUMAN
+EMBOSS_001                      1  0 i7-30o
+>SIA7D_MOUSE
+EMBOSS_001                      2  0 i12-34o65-88i
+>SIA7E_HUMAN
+EMBOSS_001                      0  Y n10-25c30/31o
+>SIA7F_BOVIN
+EMBOSS_001                      1  0 i42-59o
+>SIA7F_HUMAN
+EMBOSS_001                      1  0 i43-60o
+>SIA7F_MOUSE
+EMBOSS_001                      1  0 i43-60o
+>SIA8A_BOVIN
+EMBOSS_001                      2  0 o28-46i273-296o
+>SIA8A_HUMAN
+EMBOSS_001                      2  0 o28-46i273-296o
+>SIA8A_MOUSE
+EMBOSS_001                      1  0 i27-48o
+>SIA8A_PANTR
+EMBOSS_001                      2  0 o28-46i273-296o
+>SIA8B_HUMAN
+EMBOSS_001                      0  Y n10-19c23/24o
+>SIA8B_MOUSE
+EMBOSS_001                      0  Y n10-19c23/24o
+>SIA8B_PANTR
+EMBOSS_001                      0  Y n10-19c23/24o
+>SIA8B_RAT
+EMBOSS_001                      0  Y n10-19c23/24o
+>SIA8C_HUMAN
+EMBOSS_001                      1  0 i12-33o
+>SIA8C_MOUSE
+EMBOSS_001                      1  0 i12-33o
+>SIA8C_PANTR
+EMBOSS_001                      1  0 i12-33o
+>SIA8D_BOVIN
+EMBOSS_001                      0  Y n8-19c26/27o
+>SIA8D_CRIGR
+EMBOSS_001                      0  Y n8-19c26/27o
+>SIA8D_HUMAN
+EMBOSS_001                      0  Y n8-19c26/27o
+>SIA8D_MOUSE
+EMBOSS_001                      0  Y n8-19c26/27o
+>SIA8D_PANTR
+EMBOSS_001                      0  Y n8-19c26/27o
+>SIA8E_HUMAN
+EMBOSS_001                      1  0 o17-37i
+>SIA8E_MOUSE
+EMBOSS_001                      1  0 o17-37i
+>SIA8E_PANTR
+EMBOSS_001                      1  0 o17-37i
+>SIA8E_RAT
+EMBOSS_001                      1  0 o17-37i
+>SIA8F_HUMAN
+EMBOSS_001                      0  Y n6-25c33/34o
+>SIA8F_MOUSE
+EMBOSS_001                      0  Y n7-20c27/28o
+>SIA8F_PANTR
+EMBOSS_001                      0  Y n6-25c33/34o
+>SIAT1_HUMAN
+EMBOSS_001                      0  Y n12-23c27/28o
+>SIAT1_MOUSE
+EMBOSS_001                      0  Y n12-23c27/28o
+>SIAT1_RAT
+EMBOSS_001                      0  Y n10-20c24/25o
+>SIAT2_BOVIN
+EMBOSS_001                      1  0 i12-30o
+>SIAT2_HUMAN
+EMBOSS_001                      1  0 i12-30o
+>SIAT2_MOUSE
+EMBOSS_001                      1  0 i12-30o
+>SIAT2_PANTR
+EMBOSS_001                      1  0 i12-30o
+>SIAT2_RAT
+EMBOSS_001                      1  0 i12-30o
+>SIAT6_HUMAN
+EMBOSS_001                      1  0 o6-25i
+>SIAT6_MOUSE
+EMBOSS_001                      1  0 o6-25i
+>SIAT6_PANTR
+EMBOSS_001                      1  0 o6-25i
+>SIAT6_RAT
+EMBOSS_001                      1  0 o6-25i
+>SIAT9_BOVIN
+EMBOSS_001                      1  0 i63-85o
+>SIAT9_HUMAN
+EMBOSS_001                      1  0 i62-83o
+>SIAT9_MOUSE
+EMBOSS_001                      1  0 i66-86o
+>SIAT9_PANTR
+EMBOSS_001                      1  0 i12-31o
+>SIAT9_RAT
+EMBOSS_001                      1  0 i34-55o
+>SLC31_HUMAN
+EMBOSS_001                      1  0 i88-110o
+>SLC31_MOUSE
+EMBOSS_001                      1  0 i87-109o
+>SLC31_RAT
+EMBOSS_001                      1  0 i85-107o
+>SMIM1_HUMAN
+EMBOSS_001                      1  0 o49-74i
+>SMIM1_MOUSE
+EMBOSS_001                      1  0 o49-74i
+>SPCS3_BOVIN
+EMBOSS_001                      1  0 o12-32i
+>SPCS3_CANLF
+EMBOSS_001                      1  0 o12-32i
+>SPCS3_HUMAN
+EMBOSS_001                      1  0 o12-32i
+>SPCS3_MOUSE
+EMBOSS_001                      1  0 o12-32i
+>SPCS3_RAT
+EMBOSS_001                      1  0 o12-32i
+>SUN1_HUMAN
+EMBOSS_001                      3  0 i226-247o259-282i289-308o
+>SUN1_MOUSE
+EMBOSS_001                      3  0 i356-373o385-404i416-435o
+>SUN2_HUMAN
+EMBOSS_001                      3  0 i158-174o180-201i213-234o
+>SUN2_MOUSE
+EMBOSS_001                      3  0 i175-193o199-215i227-248o
+>SYNG1_BOVIN
+EMBOSS_001                      2  0 o182-205i226-252o
+>SYNG1_HUMAN
+EMBOSS_001                      2  0 o182-205i226-252o
+>SYNG1_MACFA
+EMBOSS_001                      2  0 o182-205i226-252o
+>SYNG1_MOUSE
+EMBOSS_001                      2  0 o182-205i226-252o
+>SYNG1_RAT
+EMBOSS_001                      2  0 o182-205i226-252o
+>T106B_BOVIN
+EMBOSS_001                      1  0 i97-118o
+>T106B_HUMAN
+EMBOSS_001                      1  0 i96-117o
+>T106B_MOUSE
+EMBOSS_001                      1  0 i97-118o
+>T106B_RAT
+EMBOSS_001                      1  0 i97-118o
+>TFR1_CANLF
+EMBOSS_001                      1  0 i68-91o
+>TFR1_CRIGR
+EMBOSS_001                      1  0 i66-88o
+>TFR1_FELCA
+EMBOSS_001                      1  0 i68-91o
+>TFR1_HORSE
+EMBOSS_001                      1  0 i68-90o
+>TFR1_HUMAN
+EMBOSS_001                      1  0 i66-88o
+>TFR1_MOUSE
+EMBOSS_001                      1  0 i66-88o
+>TFR1_PIG
+EMBOSS_001                      1  0 i68-91o
+>TFR1_PONAB
+EMBOSS_001                      1  0 i66-88o
+>TFR1_RAT
+EMBOSS_001                      1  0 i66-88o
+>TFR2_HUMAN
+EMBOSS_001                      1  0 i84-104o
+>TFR2_MOUSE
+EMBOSS_001                      1  0 i82-102o
+>TM11B_HUMAN
+EMBOSS_001                      1  0 i12-40o
+>TM11B_MOUSE
+EMBOSS_001                      1  0 i12-40o
+>TM11C_MOUSE
+EMBOSS_001                      1  0 i34-56o
+>TM11D_HUMAN
+EMBOSS_001                      1  0 o16-42i
+>TM11E_HUMAN
+EMBOSS_001                      1  0 o20-43i
+>TM11E_MOUSE
+EMBOSS_001                      1  0 o18-42i
+>TM11G_RAT
+EMBOSS_001                      1  0 i20-42o
+>TMM98_BOVIN
+EMBOSS_001                      1  0 o6-27i
+>TMM98_HUMAN
+EMBOSS_001                      1  0 o6-27i
+>TMM98_MOUSE
+EMBOSS_001                      1  0 o6-27i
+>TMM98_RAT
+EMBOSS_001                      1  0 o6-27i
+>TMPS2_HUMAN
+EMBOSS_001                      1  0 i84-106o
+>TMPS2_MOUSE
+EMBOSS_001                      1  0 i84-108o
+>TMPS3_HUMAN
+EMBOSS_001                      1  0 o48-71i
+>TMPS3_MOUSE
+EMBOSS_001                      1  0 i48-71o
+>TMPS4_HUMAN
+EMBOSS_001                      1  0 i32-57o
+>TMPS4_MOUSE
+EMBOSS_001                      1  0 i30-55o
+>TMPS6_HUMAN
+EMBOSS_001                      1  0 i53-76o
+>TMPS6_MOUSE
+EMBOSS_001                      1  0 i54-78o
+>TMPS7_MOUSE
+EMBOSS_001                      1  0 i63-85o
+>TMPS7_RAT
+EMBOSS_001                      1  0 i63-85o
+>TMPS9_HUMAN
+EMBOSS_001                      1  0 i28-50o
+>TMPSD_HUMAN
+EMBOSS_001                      1  0 i166-189o
+>TMPSD_MOUSE
+EMBOSS_001                      1  0 i142-165o
+>TN13B_HUMAN
+EMBOSS_001                      1  0 i47-70o
+>TN13B_MOUSE
+EMBOSS_001                      1  0 o48-73i
+>TNF10_HUMAN
+EMBOSS_001                      1  0 o12-38i
+>TNF10_MOUSE
+EMBOSS_001                      1  0 i20-42o
+>TNF12_HUMAN
+EMBOSS_001                      0  Y n20-39c51/52o
+>TNF14_HUMAN
+EMBOSS_001                      1  0 i35-59o
+>TNF15_HUMAN
+EMBOSS_001                      1  0 i35-56o
+>TNF18_HUMAN
+EMBOSS_001                      1  0 o26-49i
+>TNF18_MOUSE
+EMBOSS_001                      1  0 i21-44o
+>TNFA_BOSIN
+EMBOSS_001                      1  0 i30-55o
+>TNFA_BOSTR
+EMBOSS_001                      1  0 i30-55o
+>TNFA_BOVIN
+EMBOSS_001                      1  0 i30-55o
+>TNFA_BUBBU
+EMBOSS_001                      1  0 i30-53o
+>TNFA_BUBCA
+EMBOSS_001                      1  0 i30-55o
+>TNFA_CALJA
+EMBOSS_001                      1  0 i30-54o
+>TNFA_CAMBA
+EMBOSS_001                      1  0 i30-55o
+>TNFA_CANLF
+EMBOSS_001                      1  0 i30-55o
+>TNFA_CAPHI
+EMBOSS_001                      1  0 i30-55o
+>TNFA_CAVPO
+EMBOSS_001                      1  0 i30-55o
+>TNFA_DASNO
+EMBOSS_001                      1  0 i29-54o
+>TNFA_DELLE
+EMBOSS_001                      1  0 i31-55o
+>TNFA_FELCA
+EMBOSS_001                      1  0 i30-55o
+>TNFA_HORSE
+EMBOSS_001                      1  0 i30-55o
+>TNFA_HUMAN
+EMBOSS_001                      1  0 i30-55o
+>TNFA_LAMGL
+EMBOSS_001                      1  0 i30-55o
+>TNFA_MACFA
+EMBOSS_001                      1  0 i30-55o
+>TNFA_MACMU
+EMBOSS_001                      1  0 i30-55o
+>TNFA_MARMO
+EMBOSS_001                      1  0 i31-55o
+>TNFA_MOUSE
+EMBOSS_001                      1  0 i30-56o
+>TNFA_NOTEU
+EMBOSS_001                      1  0 i30-55o
+>TNFA_PANTR
+EMBOSS_001                      1  0 i30-55o
+>TNFA_PAPAN
+EMBOSS_001                      1  0 i35-55o
+>TNFA_PAPHU
+EMBOSS_001                      1  0 i30-55o
+>TNFA_PAPSP
+EMBOSS_001                      1  0 i30-55o
+>TNFA_PERLE
+EMBOSS_001                      1  0 i30-56o
+>TNFA_PIG
+EMBOSS_001                      1  0 i30-53o
+>TNFA_RABIT
+EMBOSS_001                      1  0 i30-53o
+>TNFA_RAT
+EMBOSS_001                      1  0 i30-56o
+>TNFA_SAISC
+EMBOSS_001                      1  0 o30-55i
+>TNFA_SHEEP
+EMBOSS_001                      1  0 i30-55o
+>TNFA_TRIVU
+EMBOSS_001                      1  0 i27-55o
+>TNFA_TUPTA
+EMBOSS_001                      1  0 i30-55o
+>TNFA_TURTR
+EMBOSS_001                      1  0 i31-55o
+>TNFL4_HUMAN
+EMBOSS_001                      1  0 o24-45i
+>TNFL4_MOUSE
+EMBOSS_001                      1  0 i27-46o
+>TNFL4_RABIT
+EMBOSS_001                      1  0 i24-43o
+>TNFL4_RAT
+EMBOSS_001                      1  0 i26-46o
+>TNFL6_CERAT
+EMBOSS_001                      1  0 i80-104o
+>TNFL6_FELCA
+EMBOSS_001                      1  0 i80-104o
+>TNFL6_HUMAN
+EMBOSS_001                      1  0 i81-105o
+>TNFL6_MACFA
+EMBOSS_001                      1  0 i80-104o
+>TNFL6_MACMU
+EMBOSS_001                      1  0 i80-104o
+>TNFL6_MACNE
+EMBOSS_001                      1  0 i80-104o
+>TNFL6_MOUSE
+EMBOSS_001                      1  0 o79-103i
+>TNFL6_PIG
+EMBOSS_001                      1  0 i82-106o
+>TNFL6_RAT
+EMBOSS_001                      1  0 o78-102i
+>TNFL8_HUMAN
+EMBOSS_001                      1  0 o38-62i
+>TNFL8_MOUSE
+EMBOSS_001                      1  0 i44-67o
+>TNFL9_HUMAN
+EMBOSS_001                      1  0 i29-55o
+>TNFL9_MOUSE
+EMBOSS_001                      1  0 i83-102o
+>TNMD_HUMAN
+EMBOSS_001                      1  0 i31-49o
+>TNR22_MOUSE
+EMBOSS_001                      1  Y n21-32c50/51o176-196i
+>TPST1_HUMAN
+EMBOSS_001                      0  Y n9-24c28/29o
+>TPST1_MOUSE
+EMBOSS_001                      0  Y n9-24c28/29o
+>TPST1_RAT
+EMBOSS_001                      0  Y n9-24c28/29o
+>TPST2_BOVIN
+EMBOSS_001                      0  Y n8-16c21/22o
+>TPST2_HUMAN
+EMBOSS_001                      0  Y n8-20c25/26o
+>TPST2_MACFA
+EMBOSS_001                      0  Y n8-20c25/26o
+>TPST2_MOUSE
+EMBOSS_001                      0  Y n8-16c21/22o
+>TPST2_RAT
+EMBOSS_001                      0  Y n8-16c21/22o
+>TRDN_CANLF
+EMBOSS_001                      1  0 o48-71i
+>TRDN_HUMAN
+EMBOSS_001                      1  0 o48-71i
+>TRDN_MOUSE
+EMBOSS_001                      1  0 o48-71i
+>TRDN_RABIT
+EMBOSS_001                      1  0 o48-71i
+>TRDN_RAT
+EMBOSS_001                      1  0 o48-71i
+>TRHDE_HUMAN
+EMBOSS_001                      1  0 i40-63o
+>TRHDE_RAT
+EMBOSS_001                      1  0 i40-63o
+>UQCC6_HUMAN
+EMBOSS_001                      0  Y n14-25c30/31o
+>UQCC6_MOUSE
+EMBOSS_001                      1  0 o13-32i
+>UQCC6_PONAB
+EMBOSS_001                      0  Y n14-25c30/31o
+>UST_HUMAN
+EMBOSS_001                      1  0 i48-67o
+>UST_MOUSE
+EMBOSS_001                      1  0 i49-68o
+>UXS1_HUMAN
+EMBOSS_001                      0  Y n20-30c35/36o
+>UXS1_MOUSE
+EMBOSS_001                      0  Y n20-30c35/36o
+>UXS1_PONAB
+EMBOSS_001                      0  Y n20-30c35/36o
+>UXS1_RAT
+EMBOSS_001                      0  Y n20-30c35/36o
+>WSCD1_HUMAN
+EMBOSS_001                      0  Y n17-35c43/44o
+>WSCD1_MOUSE
+EMBOSS_001                      0  Y n17-35c43/44o
+>WSCD1_RAT
+EMBOSS_001                      0  Y n17-35c43/44o
+>WSCD2_HUMAN
+EMBOSS_001                      0  Y n19-30c35/36o
+>WSCD2_MOUSE
+EMBOSS_001                      1  0 i20-42o
+>XBP1_BOVIN
+EMBOSS_001                      0  0 o
+>XBP1_MOUSE
+EMBOSS_001                      1  Y n2-7c13/14o181-203i
+>XBP1_RAT
+EMBOSS_001                      1  Y n2-7c13/14o181-203i
+>XXLT1_HUMAN
+EMBOSS_001                      1  0 i24-42o
+>XXLT1_MOUSE
+EMBOSS_001                      1  0 i24-42o
+>XYLK_HUMAN
+EMBOSS_001                      0  Y n7-19c24/25o
+>XYLK_MOUSE
+EMBOSS_001                      0  Y n7-19c24/25o
+>XYLT1_CANLF
+EMBOSS_001                      0  Y n16-27c32/33o
+>XYLT1_HUMAN
+EMBOSS_001                      0  Y n16-27c32/33o
+>XYLT1_MOUSE
+EMBOSS_001                      1  0 i17-36o
+>XYLT1_PANTR
+EMBOSS_001                      0  Y n16-27c32/33o
+>XYLT2_BOVIN
+EMBOSS_001                      0  Y n16-27c34/35o
+>XYLT2_CANLF
+EMBOSS_001                      0  Y n16-27c34/35o
+>XYLT2_HUMAN
+EMBOSS_001                      0  Y n16-27c34/35o
+>XYLT2_MOUSE
+EMBOSS_001                      0  Y n16-27c34/35o
+>XYLT2_PANTR
+EMBOSS_001                      0  Y n16-27c34/35o
+>XYLT2_RAT
+EMBOSS_001                      0  Y n16-27c34/35o
