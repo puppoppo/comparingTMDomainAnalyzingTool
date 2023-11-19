@@ -1,6 +1,23 @@
+use Getopt::Long;
 
-open( fastaFile, "ppm_100.fas" );
-open( WRITE,     ">ppm_100_amph_start.csv" );
+my $input_file_path;
+my $output_file_path;
+
+# オプションの定義
+GetOptions(
+    'input=s'  => \$input_file_path,     # --input オプションとその値
+    'output=s' => \$output_file_path,    # --output オプションとその値
+);
+
+# オプションの値を確認
+print "Input file path: $input_file_path\n";
+print "Output file path: $output_file_path\n";
+
+# ファイルを開く
+open( fastaFile, "<", $input_file_path )
+  or die "Cannot open input file: $!";
+open( WRITE, ">", $output_file_path )
+  or die "Cannot open output file: $!";
 
 my %amino_acid_values = (
     A => 1.8,
@@ -51,11 +68,9 @@ my %amino_amph_values = (
 $, = ",";
 $\ = "\n";
 $A = -0.49;
-$M = 0;
 
 while (<fastaFile>) {
     chomp;
-
     if ( $_ =~ /^>/ ) {
         $temp = substr( $_, 0, 100 );
     }
@@ -117,7 +132,6 @@ while (<fastaFile>) {
                 @hy_deff = ();
                 $defmax  = 0;
                 $Nend    = 0;
-                $Ostart  = 0;
 
                 if ( $max - 20 > 0 ) {
                     $start = $max - 20;    #start:-20 end:-5
@@ -283,15 +297,9 @@ while (<fastaFile>) {
         # 	}
         # }
         if (1) {
-            printf WRITE $temp . "," . $certainly . "," . $Nend . "\n";
-            for ( $i = $Nend + 1 - 25 ; $i <= $Nend + 1 + 25 ; $i++ ) {
-                if ( $i <= 0 || $i >= @sq ) {
-                    printf WRITE "X";
-                }
-                else {
-                    printf WRITE $sq[$i];
-                }
-            }
+            $TMRstart = $Nend + 2;
+            printf WRITE $temp . "\n";
+            printf WRITE "start," . $certainly . "," . $TMRstart . "\n";
             printf WRITE "\n";
 
         }

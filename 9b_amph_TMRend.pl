@@ -1,6 +1,23 @@
+use Getopt::Long;
 
-open( fastaFile, "npm_100.fas" );
-open( WRITE,     ">npm_100_amph_end.fas" );
+my $input_file_path;
+my $output_file_path;
+
+# オプションの定義
+GetOptions(
+    'input=s'  => \$input_file_path,     # --input オプションとその値
+    'output=s' => \$output_file_path,    # --output オプションとその値
+);
+
+# オプションの値を確認
+print "Input file path: $input_file_path\n";
+print "Output file path: $output_file_path\n";
+
+# ファイルを開く
+open( fastaFile, "<", $input_file_path )
+  or die "Cannot open input file: $!";
+open( WRITE, ">", $output_file_path )
+  or die "Cannot open output file: $!";
 
 my %amino_acid_values = (
     A => 1.8,
@@ -51,7 +68,6 @@ my %amino_amph_values = (
 $, = ",";
 $\ = "\n";
 $A = -0.49;
-$M = 0;
 
 while (<fastaFile>) {
     chomp;
@@ -268,16 +284,9 @@ while (<fastaFile>) {
         # 	}
         # }
         if (1) {
-            printf WRITE $temp . "," . $certainly . "," . $Nend . "\n";
-
-            for ( $i = $Nend - 25 ; $i <= $Nend + 25 ; $i++ ) {
-                if ( $i <= 0 || $i >= @sq ) {
-                    printf WRITE "X";
-                }
-                else {
-                    printf WRITE $sq[$i];
-                }
-            }
+            $TMRend = $Nend + 1;
+            printf WRITE $temp . "\n";
+            printf WRITE "end," . $certainly . "," . $TMRend . "\n";
             printf WRITE "\n";
         }
 
