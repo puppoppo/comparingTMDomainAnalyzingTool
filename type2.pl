@@ -1,6 +1,18 @@
+use Getopt::Long;
 
-open( SWISS, "uniprot_sprot.dat" );
-open( WRITE, ">type2.dat" );
+my $input_file_path;
+my $output_file_path;
+
+# オプションの定義
+GetOptions(
+    'input=s'  => \$input_file_path,     # --input オプションとその値
+    'output=s' => \$output_file_path,    # --output オプションとその値
+);
+
+open( SWISS, $input_file_path )
+  or die "Cannot open input file: $!";
+open( WRITE, '>', $output_file_path )
+  or die "Cannot open output file: $!";
 
 $,   = ",";
 $\   = "\n";

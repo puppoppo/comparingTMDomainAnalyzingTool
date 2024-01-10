@@ -8,9 +8,11 @@ type2.fasta
 ft269.dat
 ft269.fasta
 #dataset2
-#8 proteins
+#10 proteins
 
-TMD_uniprot.txt
-TMD_phobius.txt
+ds1_TMD_uniprot.txt
+ds2_TMD_uniprot.txt
+ds1_TMD_phobius.txt
+ds2_TMD_phobius.txt
 TMD_deepTMHMM.txt
 TMD_originalMethod.txt

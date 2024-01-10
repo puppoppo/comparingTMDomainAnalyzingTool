@@ -13,8 +13,20 @@ def calc():
     deeptmhmm_job.save_files("one_result")  # Saves all results to `result` dir
 
 
-# 相対パスを使用してファイルを削除する場合
-relative_path = "path/to/your/file.txt"
+def run_job(sequence_list):
+    with open("pro.fasta", "w") as process:
+        for single_line in sequence_list:
+            process.write(single_line)
+    calc()
+    with open("one_result/TMRs.gff3", "r") as result:
+        # 一行目を除いて読み込む
+        content_of_result = result.readlines()[1:]
+    with open("all_result.txt", "a") as all_result:
+        # 改行を入れて連結し、最後に"//\n"を追加
+        all_result.write("\n".join(content_of_result) + "//\n")
+    shutil.rmtree(os.path.join(current_directory, "one_result"))
+    os.remove(os.path.join(current_directory, "pro.fasta"))
+
 
 # 現在の作業ディレクトリを取得
 current_directory = os.getcwd()
@@ -36,18 +48,9 @@ with open(args.input, "r") as type2:
             sequence.append(line)
             i = i + 1
         else:
-            with open("pro.fasta", "w") as process:
-                for single_line in sequence:
-                    process.write(single_line)
-            calc()
-            with open("one_result/TMRs.gff3", "r") as result:
-                # 一行目を除いて読み込む
-                content_of_result = result.readlines()[1:]
-            with open("all_result.txt", "a") as all_result:
-                # 改行を入れて連結し、最後に"//\n"を追加
-                all_result.write("\n".join(content_of_result) + "//\n")
-            shutil.rmtree(os.path.join(current_directory, "one_result"))
-            os.remove(os.path.join(current_directory, "pro.fasta"))
+            run_job(sequence)
             i = 0
             sequence = []
-            time.sleep(15)
+            time.sleep(90)
+
+run_job(sequence)
