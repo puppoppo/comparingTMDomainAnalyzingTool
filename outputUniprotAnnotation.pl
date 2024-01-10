@@ -1,6 +1,18 @@
+use Getopt::Long;
 
-open( SWISS, "type2.dat" );
-open( WRITE, ">uniprot_range.txt" );
+my $input_file_path;
+my $output_file_path;
+
+# オプションの定義
+GetOptions(
+    'input=s'  => \$input_file_path,     # --input オプションとその値
+    'output=s' => \$output_file_path,    # --output オプションとその値
+);
+
+open( SWISS, $input_file_path )
+  or die "Cannot open input file: $!";
+open( WRITE, '>', $output_file_path )
+  or die "Cannot open output file: $!";
 
 $,       = ",";
 $\       = "\n";
@@ -86,12 +98,17 @@ print chr(7);    #終了時に音が鳴ります
 
 #引数の文字列からECO:0000を探して、その先の3桁の数字を返す
 sub getECOnumber {
-    $ecoPosition = index( $_[0], "ECO:0000", 0 );
-    if ( $ecoPosition != -1 ) {
-        $eco_string = substr( $_[0], $ecoPosition + 8, 3 );
-        $eco_int    = int($eco_string);
-        return $eco_int;
-    }
+    if    ( $_[0] =~ /ECO:0000269/ ) { return 269; }
+    elsif ( $_[0] =~ /ECO:0000303/ ) { return 303; }
+    elsif ( $_[0] =~ /ECO:0000305/ ) { return 305; }
+    elsif ( $_[0] =~ /ECO:0000250/ ) { return 250; }
+    elsif ( $_[0] =~ /ECO:0000255/ ) { return 255; }
+    elsif ( $_[0] =~ /ECO:0000256/ ) { return 256; }
+    elsif ( $_[0] =~ /ECO:0000259/ ) { return 259; }
+    elsif ( $_[0] =~ /ECO:0000312/ ) { return 312; }
+    elsif ( $_[0] =~ /ECO:0000313/ ) { return 313; }
+    elsif ( $_[0] =~ /ECO:0000244/ ) { return 244; }
+    elsif ( $_[0] =~ /ECO:0000213/ ) { return 213; }
     else {
         return -1;
     }

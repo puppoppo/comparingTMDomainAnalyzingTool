@@ -1,5 +1,20 @@
 import requests
 import time
+import sys
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--input", help="input file name")
+parser.add_argument("--output", help="output file name")
+args = parser.parse_args()
+
+if args.input == None:
+    print("use --input to specify input file")
+    sys.exit()
+
+if args.output == None:
+    print("use --output to specify output file")
+    sys.exit()
 
 
 def extract_after_first_newline(s):
@@ -70,7 +85,7 @@ def getPhobiusResponse(sequence, count):
 
 # ファイルを開く
 i = 0
-with open("type2.fasta", "r", encoding="utf-8") as fasta:
+with open(args.input, "r", encoding="utf-8") as fasta:
     for line in fasta:
         readingLine = line.strip()
         if readingLine[0] == ">":
@@ -78,5 +93,5 @@ with open("type2.fasta", "r", encoding="utf-8") as fasta:
         if readingLine[0] == "M":
             i = i + 1
             output = getPhobiusResponse(readingLine, i)
-            with open("output.txt", "a", encoding="utf-8") as out:
+            with open(args.output, "a", encoding="utf-8") as out:
                 out.write(IDline + "\n" + output)
